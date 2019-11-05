@@ -1,0 +1,2 @@
+by logic,
+extract prime factors from 1 to 20 and multiply every single one to the greatest exponent that appears
