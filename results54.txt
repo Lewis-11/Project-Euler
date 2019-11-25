@@ -1,0 +1,4001 @@
+-------------------·
+hand1: ['4S', '8C', '9H', 'TS', 'KC']
+hand2: ['2S', '3S', '5D', '7D', 'AC']
+cartalata
+-------------------·
+hand1: ['5C', '5D', '9C', 'AD', 'AC']
+hand2: ['5H', '7C', '8D', 'TD', 'KS']
+doblepareja
+-------------------·
+hand1: ['3H', '6S', '7H', 'JS', 'KC']
+hand2: ['2D', '8S', 'TD', 'JC', 'QH']
+cartalata
+-------------------·
+hand1: ['5C', '8H', 'TH', 'TC', 'QS']
+hand2: ['4D', '9H', 'JC', 'JS', 'KS']
+pareja
+-------------------·
+hand1: ['5H', '7C', 'JD', 'QH', 'KC']
+hand2: ['4C', '4S', 'KH', 'AS', 'AD']
+doblepareja
+-------------------·
+hand1: ['5H', '7D', '9C', '9H', 'KS']
+hand2: ['3S', '5D', '5C', '8D', 'AH']
+pareja
+-------------------·
+hand1: ['2H', '3H', '4H', '5C', '6H']
+hand2: ['3S', '5S', '6S', 'QH', 'AS']
+cartalata
+-------------------·
+hand1: ['4H', '7C', '8C', 'TD', 'TC']
+hand2: ['3H', '4C', '7S', 'KC', 'KS']
+pareja
+-------------------·
+hand1: ['3H', '6D', '7C', '9C', 'KD']
+hand2: ['4C', 'QS', 'QC', 'KH', 'AC']
+pareja
+-------------------·
+hand1: ['2H', '2D', '5H', '6S', 'JC']
+hand2: ['7C', '9D', 'JS', 'KD', 'AS']
+cartalata
+-------------------·
+hand1: ['8H', '9D', 'TH', 'QH', 'AD']
+hand2: ['3S', '6D', 'TS', 'AS', 'AC']
+pareja
+-------------------·
+hand1: ['2H', '4S', '5C', '5S', 'TC']
+hand2: ['3C', '6C', 'TS', 'JD', 'KC']
+pareja
+-------------------·
+hand1: ['2C', '6H', 'JS', 'QD', 'AS']
+hand2: ['3D', '4H', '8S', '9H', 'KC']
+cartalata
+-------------------·
+hand1: ['2S', '7C', '8S', '9S', 'KD']
+hand2: ['3S', '4H', '6D', '6S', 'KC']
+pareja
+-------------------·
+hand1: ['2D', '3C', '4D', '7D', '8C']
+hand2: ['4S', '4H', '9S', 'JD', 'QH']
+pareja
+-------------------·
+hand1: ['2D', '7S', '8C', 'TC', 'KC']
+hand2: ['5C', '8H', 'TS', 'QD', 'AC']
+cartalata
+-------------------·
+hand1: ['3D', '6C', '6S', 'QD', 'KH']
+hand2: ['2H', '8H', 'QS', 'AD', 'AS']
+pareja
+-------------------·
+hand1: ['4C', '6S', '6C', '8D', '8S']
+hand2: ['6D', '7D', '9D', 'TC', 'QH']
+doblepareja
+-------------------·
+hand1: ['2S', '4C', '8D', '8C', 'TS']
+hand2: ['3D', '9S', '9D', '9C', 'AC']
+trio
+-------------------·
+hand1: ['2S', '3C', '4H', 'JH', 'QS']
+hand2: ['2D', '3D', '8S', '9H', 'TD']
+cartalata
+-------------------·
+hand1: ['3C', '5H', '6D', '8S', 'QS']
+hand2: ['7H', '7D', '8C', 'JD', 'AS']
+pareja
+-------------------·
+hand1: ['6H', '9D', 'TD', 'JH', 'AS']
+hand2: ['6C', '9S', 'JC', 'QC', 'KD']
+cartalata
+-------------------·
+hand1: ['4D', '8S', 'TH', 'QS', 'AH']
+hand2: ['3C', '3D', '5C', 'TS', 'AC']
+pareja
+-------------------·
+hand1: ['3D', '4D', '5S', '8H', 'JS']
+hand2: ['3S', '6C', '8C', 'TS', 'AD']
+cartalata
+-------------------·
+hand1: ['3S', '5D', '5H', '6D', '7C']
+hand2: ['2H', '3D', '5C', '5S', 'JC']
+pareja
+-------------------·
+hand1: ['2S', '3D', '5H', '6H', 'KS']
+hand2: ['5D', '7H', '8H', 'JD', 'JS']
+pareja
+-------------------·
+hand1: ['4H', 'JS', 'QS', 'KH', 'AS']
+hand2: ['6D', '7C', 'TC', 'QC', 'KS']
+cartalata
+-------------------·
+hand1: ['2H', '3D', 'TS', 'JS', 'QS']
+hand2: ['4D', '9S', 'JC', 'KD', 'AS']
+cartalata
+-------------------·
+hand1: ['4D', '5H', '5D', 'QD', 'KH']
+hand2: ['3D', '4H', '7H', 'JS', 'KD']
+pareja
+-------------------·
+hand1: ['2C', '5C', '6H', '9H', '9D']
+hand2: ['2D', '6C', '9S', 'TH', 'JC']
+pareja
+-------------------·
+hand1: ['6D', '7D', 'JH', 'QD', 'AS']
+hand2: ['4D', '5C', '7C', 'JS', 'QS']
+cartalata
+-------------------·
+hand1: ['3H', '8C', 'QD', 'KH', 'AD']
+hand2: ['3S', '5S', '8H', '9D', 'TH']
+cartalata
+-------------------·
+hand1: ['4D', '8S', '9S', '9D', 'AH']
+hand2: ['3C', '4H', '8D', 'TC', 'JS']
+pareja
+-------------------·
+hand1: ['2C', '3S', '5H', 'QD', 'KS']
+hand2: ['8S', '9H', 'TS', 'AH', 'AD']
+pareja
+-------------------·
+hand1: ['5C', '5D', '7H', '9H', 'KD']
+hand2: ['2D', '3D', '4D', 'KS', 'AD']
+pareja
+-------------------·
+hand1: ['2C', '6D', '9S', 'KS', 'KC']
+hand2: ['9D', '9H', 'TS', 'TC', 'QH']
+doblepareja
+-------------------·
+hand1: ['4D', '5D', '6H', '9C', 'QH']
+hand2: ['6D', 'JS', 'QC', 'KH', 'AD']
+cartalata
+-------------------·
+hand1: ['3H', '5C', '9S', '9D', 'JD']
+hand2: ['4D', '9H', 'TC', 'QH', 'AS']
+pareja
+-------------------·
+hand1: ['2C', '3C', '6D', '9C', 'JC']
+hand2: ['7D', '9S', '9D', 'KH', 'AD']
+pareja
+-------------------·
+hand1: ['7C', '9C', 'JC', 'JS', 'KC']
+hand2: ['3H', '3C', '7D', 'KD', 'AS']
+pareja
+-------------------·
+hand1: ['2C', '3S', 'QD', 'QS', 'KH']
+hand2: ['8S', '8H', '9H', '9C', 'JC']
+doblepareja
+-------------------·
+hand1: ['3C', '4C', '8D', 'QH', 'KC']
+hand2: ['4H', '6D', '9H', '9D', 'AD']
+pareja
+-------------------·
+hand1: ['3S', '7H', 'QS', 'KS', 'KH']
+hand2: ['5H', '5D', '7D', 'JD', 'AD']
+pareja
+-------------------·
+hand1: ['2H', '2C', '6H', 'TH', 'TC']
+hand2: ['4H', '7D', '8D', '8C', 'AS']
+doblepareja
+-------------------·
+hand1: ['2H', '3S', '4S', 'QC', 'AC']
+hand2: ['4D', '4C', '6D', 'TH', 'KH']
+pareja
+-------------------·
+hand1: ['4D', '7C', 'TC', 'KS', 'AS']
+hand2: ['2D', '3C', '6D', '6C', '9H']
+pareja
+-------------------·
+hand1: ['2C', '5D', '8C', 'TD', 'QS']
+hand2: ['3H', '4C', '7H', '9C', '9H']
+pareja
+-------------------·
+hand1: ['5H', '7S', 'TS', 'TD', 'JH']
+hand2: ['6H', '8H', '8S', 'QD', 'AD']
+pareja
+-------------------·
+hand1: ['5S', '7C', '8C', '9C', 'AD']
+hand2: ['2S', '5H', '8D', '8S', '9D']
+pareja
+-------------------·
+hand1: ['2S', '4H', '9S', 'KH', 'KS']
+hand2: ['4S', '5S', '7D', 'KC', 'AD']
+pareja
+-------------------·
+hand1: ['6H', '9C', 'JS', 'QS', 'QD']
+hand2: ['2S', '5D', '8D', 'AC', 'AS']
+pareja
+-------------------·
+hand1: ['3S', '9D', 'JC', 'KH', 'AC']
+hand2: ['3C', '5S', '9S', '9C', 'JS']
+pareja
+-------------------·
+hand1: ['3C', '3D', '3S', 'KS', 'AD']
+hand2: ['4S', '5C', '8C', '9C', 'TS']
+trio
+-------------------·
+hand1: ['5D', '6H', '8D', 'JH', 'KD']
+hand2: ['3D', '6C', 'QS', 'QD', 'KC']
+pareja
+-------------------·
+hand1: ['3S', '6C', '8S', '8C', 'JD']
+hand2: ['3C', 'TC', 'JS', 'QC', 'QH']
+pareja
+-------------------·
+hand1: ['2S', '8H', '9H', 'JC', 'KC']
+hand2: ['8S', '8C', '9C', '9S', 'JH']
+doblepareja
+-------------------·
+hand1: ['2H', '4D', '8S', 'QH', 'QC']
+hand2: ['3C', '9D', 'TH', 'KC', 'AS']
+pareja
+-------------------·
+hand1: ['2H', '6H', '7C', '8S', 'TH']
+hand2: ['3C', '3H', '6S', '7S', 'AS']
+pareja
+-------------------·
+hand1: ['4H', '5S', '5H', 'JS', 'QH']
+hand2: ['8H', 'TS', 'JC', 'AH', 'AC']
+pareja
+-------------------·
+hand1: ['2S', '4S', '8H', '9D', 'TC']
+hand2: ['3C', '3H', '5C', '7H', 'JC']
+pareja
+-------------------·
+hand1: ['3D', '3C', '3S', '4C', 'AD']
+hand2: ['5D', '8C', 'TH', 'QC', 'AS']
+trio
+-------------------·
+hand1: ['4C', '6S', '9D', 'JS', 'KH']
+hand2: ['8H', 'TS', 'JD', 'AH', 'AD']
+pareja
+-------------------·
+hand1: ['4C', '6S', '7S', '9D', 'AC']
+hand2: ['3D', '3S', '4D', 'TC', 'JD']
+pareja
+-------------------·
+hand1: ['4H', '6H', '7H', 'JH', 'AD']
+hand2: ['6S', '7D', 'TD', 'TS', 'KC']
+pareja
+-------------------·
+hand1: ['3S', '8H', '8D', 'TC', 'JH']
+hand2: ['2C', '4D', '5C', '8C', '9S']
+pareja
+-------------------·
+hand1: ['2C', '9D', 'TH', 'QH', 'KC']
+hand2: ['4H', '9C', 'TS', 'JC', 'QS']
+cartalata
+-------------------·
+hand1: ['3C', '8H', 'QS', 'QD', 'KH']
+hand2: ['4H', '8D', '8S', 'TD', 'AC']
+pareja
+-------------------·
+hand1: ['3C', '5S', '7C', '8H', 'TH']
+hand2: ['8C', '9C', 'TC', 'JD', 'KD']
+cartalata
+-------------------·
+hand1: ['8C', 'TC', 'TS', 'JD', 'QC']
+hand2: ['3H', '6H', '7C', 'TD', 'KD']
+pareja
+-------------------·
+hand1: ['6D', '9C', 'JH', 'QS', 'KS']
+hand2: ['6S', '6H', '9H', 'KH', 'AS']
+pareja
+-------------------·
+hand1: ['2H', '2D', '4D', 'JH', 'AH']
+hand2: ['4H', '5D', '6H', 'TD', 'JD']
+cartalata
+-------------------·
+hand1: ['8C', '9S', 'JH', 'QD', 'KD']
+hand2: ['2C', '5C', '7C', 'JS', 'QS']
+cartalata
+-------------------·
+hand1: ['2S', '4S', '7H', '8D', 'TC']
+hand2: ['6H', '7S', '7C', '9C', 'KC']
+pareja
+-------------------·
+hand1: ['4S', '5D', '7H', '8C', 'TD']
+hand2: ['4H', '8S', 'JS', 'QC', 'KS']
+cartalata
+-------------------·
+hand1: ['6D', '8S', 'TD', 'JH', 'AD']
+hand2: ['2D', '6C', '7C', '7D', 'KD']
+pareja
+-------------------·
+hand1: ['4H', '6H', '6S', 'JC', 'JS']
+hand2: ['3C', '4C', '9H', 'QH', 'AH']
+doblepareja
+-------------------·
+hand1: ['5H', '6H', '7C', '7S', 'AS']
+hand2: ['3D', '5D', '5C', 'KH', 'KC']
+doblepareja
+-------------------·
+hand1: ['3D', '4D', 'TD', 'JC', 'AS']
+hand2: ['6D', '6S', 'JD', 'QH', 'KS']
+pareja
+-------------------·
+hand1: ['2S', '7S', '8C', '8S', 'QH']
+hand2: ['5C', '7H', 'JD', 'QD', 'AH']
+pareja
+-------------------·
+hand1: ['2C', '3C', '6H', '6C', '8S']
+hand2: ['4C', '4D', '7D', '8D', 'TD']
+pareja
+-------------------·
+hand1: ['2S', '5D', '7C', 'QH', 'KH']
+hand2: ['6D', '7H', 'JS', 'QC', 'QD']
+pareja
+-------------------·
+hand1: ['6C', '6S', '7D', 'TH', 'AD']
+hand2: ['2H', '4H', '6H', '8H', 'KH']
+flush
+-------------------·
+hand1: ['2D', '5D', 'JS', 'KS', 'KD']
+hand2: ['3D', '7D', '8C', '9C', 'KH']
+pareja
+-------------------·
+hand1: ['3C', '6D', '9C', 'QD', 'KS']
+hand2: ['2D', '3S', '7S', 'JD', 'AH']
+cartalata
+-------------------·
+hand1: ['8S', 'JC', 'QH', 'AH', 'AS']
+hand2: ['4C', '7D', '8H', 'TH', 'KC']
+pareja
+-------------------·
+hand1: ['5H', '5D', '7C', 'TD', 'JC']
+hand2: ['4C', '8H', 'JS', 'KD', 'AD']
+pareja
+-------------------·
+hand1: ['2H', '7D', 'KC', 'AC', 'AH']
+hand2: ['5D', '6D', '7S', 'JH', 'KH']
+pareja
+-------------------·
+hand1: ['5S', '6H', '8S', '9S', '9C']
+hand2: ['6C', '9H', 'TD', 'JD', 'AC']
+pareja
+-------------------·
+hand1: ['6D', '7D', '8S', 'TS', 'KD']
+hand2: ['5S', '5D', '7H', '7C', 'AC']
+doblepareja
+-------------------·
+hand1: ['4C', 'TC', 'JC', 'QC', 'AH']
+hand2: ['2H', '2C', '7D', '8C', 'TS']
+cartalata
+-------------------·
+hand1: ['3D', '6S', '7D', 'KD', 'KC']
+hand2: ['2S', '3H', '5S', '5C', '8S']
+pareja
+-------------------·
+hand1: ['4C', '5D', '6H', '8S', '8H']
+hand2: ['3H', '5S', '7C', 'KC', 'KD']
+pareja
+-------------------·
+hand1: ['3D', '3C', '6C', '8C', 'JH']
+hand2: ['4C', '7H', '7C', 'TD', 'KC']
+pareja
+-------------------·
+hand1: ['6H', 'TS', 'JC', 'QS', 'KC']
+hand2: ['8H', '8C', '9S', 'TD', 'KS']
+pareja
+-------------------·
+hand1: ['5S', '6C', '7D', '9C', 'QH']
+hand2: ['2C', '9S', 'KS', 'KC', 'AH']
+pareja
+-------------------·
+hand1: ['4D', '4S', '8H', '9C', 'TD']
+hand2: ['3S', '7D', '9D', 'TH', 'AS']
+pareja
+-------------------·
+hand1: ['3C', '5D', '6S', '6H', '7D']
+hand2: ['2C', '5C', '9D', '9C', 'KD']
+pareja
+-------------------·
+hand1: ['2H', '3D', '3H', 'KC', 'AD']
+hand2: ['4S', '8D', 'JC', 'QD', 'QS']
+pareja
+-------------------·
+hand1: ['3H', '7C', '8C', '9C', 'AD']
+hand2: ['5D', '9D', 'JC', 'JS', 'AS']
+pareja
+-------------------·
+hand1: ['5D', '5C', '6S', '7H', '9H']
+hand2: ['6C', '9S', 'JC', 'QC', 'QD']
+pareja
+-------------------·
+hand1: ['2C', '6S', 'JC', 'JH', 'QS']
+hand2: ['3D', '4S', '9C', 'TC', 'QC']
+pareja
+-------------------·
+hand1: ['3D', '4H', '4D', '5S', '8D']
+hand2: ['2S', '2H', '2C', 'JS', 'KC']
+doblepareja
+-------------------·
+hand1: ['3S', '4D', 'TD', 'TH', 'KD']
+hand2: ['7H', 'JH', 'JS', 'KS', 'AC']
+pareja
+-------------------·
+hand1: ['2D', '7S', '8C', '8S', '9S']
+hand2: ['5C', '7D', '9D', 'AD', 'AS']
+pareja
+-------------------·
+hand1: ['2S', '6C', '7H', '8C', 'TH']
+hand2: ['3H', '3S', '4C', '8H', 'AC']
+pareja
+-------------------·
+hand1: ['5H', '8H', 'JC', 'JD', 'KD']
+hand2: ['2D', '4H', '5C', 'TD', 'JH']
+pareja
+-------------------·
+hand1: ['3D', '7H', 'QH', 'KS', 'AS']
+hand2: ['5S', '5H', '6D', '8S', 'JD']
+pareja
+-------------------·
+hand1: ['6S', '9S', 'TC', 'JC', 'QS']
+hand2: ['5C', '5D', '8C', '9C', 'TH']
+pareja
+-------------------·
+hand1: ['2S', '3S', '5H', '9H', 'JH']
+hand2: ['2C', '6S', '7S', 'KS', 'AS']
+cartalata
+-------------------·
+hand1: ['8C', 'TC', 'JC', 'QD', 'QS']
+hand2: ['4H', '6C', 'QC', 'KH', 'AC']
+pareja
+-------------------·
+hand1: ['4H', '5H', '7D', 'TC', 'JH']
+hand2: ['2H', '4D', '8D', 'JC', 'KS']
+cartalata
+-------------------·
+hand1: ['5S', '9C', '9H', 'KH', 'KD']
+hand2: ['2D', '3D', '5C', '7D', 'TS']
+doblepareja
+-------------------·
+hand1: ['4D', '5H', '8C', 'TC', 'AS']
+hand2: ['2C', '3H', '8D', '9D', 'TS']
+cartalata
+-------------------·
+hand1: ['2D', '6H', '8D', '9H', 'JD']
+hand2: ['4S', '5H', '5S', '6C', '6D']
+doblepareja
+-------------------·
+hand1: ['6H', '7D', '9C', 'JC', 'AD']
+hand2: ['3C', '6D', '9S', '9H', 'JS']
+pareja
+-------------------·
+hand1: ['4C', 'TC', 'JH', 'QS', 'AD']
+hand2: ['5D', '7C', '9S', '9C', 'AH']
+pareja
+-------------------·
+hand1: ['2H', '6H', '8S', 'TH', 'KD']
+hand2: ['9D', '9H', 'QD', 'KS', 'AS']
+pareja
+-------------------·
+hand1: ['4H', '5H', '6C', '8H', '8D']
+hand2: ['5S', '8S', 'AH', 'AS', 'AD']
+trio
+-------------------·
+hand1: ['2H', '4S', '5D', 'TD', 'QS']
+hand2: ['3H', '5H', 'JC', 'KS', 'AC']
+cartalata
+-------------------·
+hand1: ['7D', '9C', 'QD', 'KD', 'AC']
+hand2: ['5H', '5S', '6D', '6H', 'QH']
+doblepareja
+-------------------·
+hand1: ['2H', '7D', 'QH', 'KC', 'AH']
+hand2: ['3H', '7S', 'JD', 'QS', 'KS']
+cartalata
+-------------------·
+hand1: ['3H', '6C', '6D', '8S', 'KS']
+hand2: ['5D', '5C', '8H', 'TC', 'QD']
+pareja
+-------------------·
+hand1: ['4D', '4S', '6S', '9H', '9D']
+hand2: ['4H', '6C', 'JD', 'QC', 'KH']
+doblepareja
+-------------------·
+hand1: ['2D', '4S', '6H', 'TD', 'QH']
+hand2: ['3C', '8C', 'JH', 'QD', 'KD']
+cartalata
+-------------------·
+hand1: ['4S', '6H', '7C', '9D', 'QD']
+hand2: ['3C', '6S', 'AS', 'AH', 'AD']
+trio
+-------------------·
+hand1: ['2C', '6H', '8D', 'TH', 'KC']
+hand2: ['5C', '5D', '6D', '8S', 'AH']
+pareja
+-------------------·
+hand1: ['7C', 'TD', 'TS', 'JC', 'AD']
+hand2: ['3C', '7H', '9H', 'QD', 'KC']
+pareja
+-------------------·
+hand1: ['4D', '4H', '5D', '5S', '8H']
+hand2: ['2D', '3H', '7D', 'JD', 'KD']
+doblepareja
+-------------------·
+hand1: ['4S', '6H', 'TD', 'JH', 'QS']
+hand2: ['5C', '7D', '8S', '8H', 'KD']
+pareja
+-------------------·
+hand1: ['3D', '8C', 'TD', 'AC', 'AS']
+hand2: ['5D', '6C', '7H', 'JD', 'KH']
+pareja
+-------------------·
+hand1: ['6D', '7C', '9D', 'QH', 'KS']
+hand2: ['TC', 'JD', 'KD', 'KC', 'AS']
+pareja
+-------------------·
+hand1: ['5S', '7S', '7D', '8S', 'JH']
+hand2: ['2D', '2H', '3D', 'AS', 'AD']
+doblepareja
+-------------------·
+hand1: ['2H', '3C', '5D', 'QD', 'AS']
+hand2: ['2C', '6H', '9H', '9S', 'KC']
+pareja
+-------------------·
+hand1: ['4C', '5D', '9D', 'TH', 'JH']
+hand2: ['3H', '8D', '8H', '9H', 'TC']
+pareja
+-------------------·
+hand1: ['2C', '2H', '6H', 'TD', 'KD']
+hand2: ['2D', '6C', '8C', '9D', 'JS']
+cartalata
+-------------------·
+hand1: ['3C', '7S', '7C', 'KD', 'AS']
+hand2: ['2S', '8C', 'TS', 'QH', 'AD']
+pareja
+-------------------·
+hand1: ['4C', '6C', '8H', 'JS', 'QS']
+hand2: ['9S', 'TD', 'TS', 'QC', 'AD']
+pareja
+-------------------·
+hand1: ['2H', '7C', '8C', 'TS', 'TC']
+hand2: ['2D', '3C', '6D', '9H', 'JC']
+pareja
+-------------------·
+hand1: ['2H', '8D', 'TC', 'JH', 'KS']
+hand2: ['3H', '6D', '8H', 'TD', 'TH']
+pareja
+-------------------·
+hand1: ['5D', '9D', '9H', 'TD', 'QC']
+hand2: ['6C', '8H', '8C', 'TS', 'KC']
+pareja
+-------------------·
+hand1: ['2H', '3D', '4D', '8C', 'AH']
+hand2: ['7D', '8H', 'TH', 'TC', 'KC']
+pareja
+-------------------·
+hand1: ['2D', '5C', '6S', '8C', 'TS']
+hand2: ['5H', '6H', 'KH', 'KC', 'AH']
+pareja
+-------------------·
+hand1: ['4C', '5S', '5D', 'TC', 'AH']
+hand2: ['6H', '6C', '8D', '8C', 'JD']
+doblepareja
+-------------------·
+hand1: ['2D', '3D', '8H', 'QD', 'KC']
+hand2: ['2S', '4H', '9H', 'JC', 'AD']
+cartalata
+-------------------·
+hand1: ['6S', '7D', 'TD', 'JS', 'KD']
+hand2: ['2S', '3S', '4H', '8C', 'QS']
+cartalata
+-------------------·
+hand1: ['3S', '4C', '9H', 'TS', 'JH']
+hand2: ['4H', '5S', '9S', '9C', 'QC']
+pareja
+-------------------·
+hand1: ['2C', '9H', '9S', 'JS', 'KD']
+hand2: ['3H', '5D', 'TS', 'JC', 'AC']
+pareja
+-------------------·
+hand1: ['2H', '5D', '5H', 'AS', 'AD']
+hand2: ['4C', '7S', 'TD', 'JC', 'JS']
+doblepareja
+-------------------·
+hand1: ['2D', '3D', '4S', '7D', '8H']
+hand2: ['2C', '9C', 'TS', 'KD', 'AD']
+cartalata
+-------------------·
+hand1: ['5H', '7H', 'JH', 'JS', 'QD']
+hand2: ['3D', '4C', '8H', 'TH', 'AC']
+pareja
+-------------------·
+hand1: ['5C', '6D', 'QD', 'KH', 'KC']
+hand2: ['2D', '4H', '7C', 'AD', 'AC']
+pareja
+-------------------·
+hand1: ['3D', '8S', '9D', 'TC', 'QD']
+hand2: ['2C', '4H', 'JC', 'JD', 'AH']
+pareja
+-------------------·
+hand1: ['5S', '6C', '8S', 'TD', 'TC']
+hand2: ['2C', '5D', 'AH', 'AS', 'AC']
+trio
+-------------------·
+hand1: ['3D', '6C', '7S', 'TH', 'AS']
+hand2: ['4C', '4H', '7H', '7D', 'AH']
+doblepareja
+-------------------·
+hand1: ['2H', '5C', '6H', '7S', 'KS']
+hand2: ['3D', '3C', '4H', '5H', '7H']
+pareja
+-------------------·
+hand1: ['3C', '7S', '9S', 'QH', 'AC']
+hand2: ['2H', '3D', '3S', '3H', '6S']
+trio
+-------------------·
+hand1: ['2D', '2C', '3H', '6H', 'AS']
+hand2: ['6S', '6C', '9C', 'TC', 'JS']
+pareja
+-------------------·
+hand1: ['6D', 'QH', 'QD', 'KD', 'AC']
+hand2: ['2C', '6H', '8C', 'TS', 'KH']
+pareja
+-------------------·
+hand1: ['3S', '5D', '7D', '8H', '9H']
+hand2: ['3H', '4S', '5H', '9S', 'QC']
+cartalata
+-------------------·
+hand1: ['2D', '3C', '6H', '7H', '9D']
+hand2: ['3S', '4D', '4S', '5H', '8S']
+pareja
+-------------------·
+hand1: ['4S', '7S', '9S', 'TC', 'KD']
+hand2: ['2H', '3S', '7H', '8S', 'QC']
+cartalata
+-------------------·
+hand1: ['3D', '3H', '6C', '8C', 'TC']
+hand2: ['2H', '4D', '6H', 'KS', 'KD']
+pareja
+-------------------·
+hand1: ['3D', '3H', '9S', 'JS', 'KC']
+hand2: ['2D', '4S', '6C', '8H', '8S']
+pareja
+-------------------·
+hand1: ['6H', '6C', 'TC', 'QS', 'QD']
+hand2: ['4D', '5H', '7D', '7C', '9H']
+doblepareja
+-------------------·
+hand1: ['6S', '6C', '8D', '9D', 'TD']
+hand2: ['5D', '8H', 'TC', 'TS', 'JS']
+pareja
+-------------------·
+hand1: ['4H', '9H', 'TC', 'JD', 'KC']
+hand2: ['2C', '5H', '6S', '8H', 'AS']
+cartalata
+-------------------·
+hand1: ['5C', '6S', '9C', '9D', 'JS']
+hand2: ['4C', '6D', '8H', 'JD', 'KC']
+pareja
+-------------------·
+hand1: ['4D', '6C', '7C', '8D', '8S']
+hand2: ['5C', '6H', '7H', '8H', 'KC']
+pareja
+-------------------·
+hand1: ['3D', '6D', 'TC', 'JC', 'KS']
+hand2: ['2C', '6H', '7S', '9S', '9C']
+pareja
+-------------------·
+hand1: ['3S', '5H', '6C', 'TS', 'KD']
+hand2: ['6H', '7D', '9H', '9S', 'KH']
+pareja
+-------------------·
+hand1: ['3D', '4C', '6H', 'TS', 'QD']
+hand2: ['2H', '3S', '5C', 'KD', 'AC']
+cartalata
+-------------------·
+hand1: ['4C', '7C', '9S', 'JS', 'AS']
+hand2: ['7H', '9H', 'TS', 'JC', 'KS']
+cartalata
+-------------------·
+hand1: ['3H', '4H', '6H', '8C', 'JD']
+hand2: ['4S', '5S', '9S', 'KS', 'AD']
+cartalata
+-------------------·
+hand1: ['2C', '3D', '4C', '7D', 'AS']
+hand2: ['2S', '6C', '9C', 'QS', 'KC']
+cartalata
+-------------------·
+hand1: ['2S', '3D', '5H', '8S', 'AC']
+hand2: ['3S', '4D', '6S', '9D', 'TD']
+cartalata
+-------------------·
+hand1: ['3D', '7S', 'TH', 'TS', 'QD']
+hand2: ['5D', '6C', '7H', 'QC', 'AC']
+pareja
+-------------------·
+hand1: ['9C', 'TC', 'QD', 'QS', 'AD']
+hand2: ['3D', '3C', '5C', '8D', 'KD']
+pareja
+-------------------·
+hand1: ['3S', '7C', '8H', '9D', 'AS']
+hand2: ['2D', '8S', '8D', 'JD', 'KC']
+pareja
+-------------------·
+hand1: ['4C', 'TH', 'JS', 'QH', 'AC']
+hand2: ['7D', '7S', '8D', '9C', 'KH']
+pareja
+-------------------·
+hand1: ['2C', '4C', '8D', '9D', 'JH']
+hand2: ['2S', '4H', 'TS', 'QD', 'KD']
+cartalata
+-------------------·
+hand1: ['2D', '4D', '5D', '6D', 'JH']
+hand2: ['3S', '3H', '8S', 'TC', 'KH']
+pareja
+-------------------·
+hand1: ['2C', '4D', '8C', 'QS', 'AD']
+hand2: ['5C', 'JH', 'JD', 'KD', 'AH']
+pareja
+-------------------·
+hand1: ['2H', '5C', '5H', '6C', 'JH']
+hand2: ['3H', '4H', '7C', 'TC', 'KS']
+pareja
+-------------------·
+hand1: ['3C', '4C', '5D', 'JH', 'QC']
+hand2: ['8D', '9C', 'TC', 'QD', 'KH']
+cartalata
+-------------------·
+hand1: ['3H', '7H', '9C', 'JS', 'QH']
+hand2: ['5H', '7C', '9H', 'JC', 'AS']
+cartalata
+-------------------·
+hand1: ['2D', '3C', '4S', '5S', 'QD']
+hand2: ['4C', '5C', '6S', '6C', 'KC']
+pareja
+-------------------·
+hand1: ['2D', '5D', '8S', 'TS', 'KH']
+hand2: ['4C', '7C', '9C', '9S', 'AS']
+pareja
+-------------------·
+hand1: ['5S', '7C', '8C', '8D', 'AH']
+hand2: ['2C', 'JH', 'QH', 'QS', 'KD']
+pareja
+-------------------·
+hand1: ['2H', '8C', '9D', 'AH', 'AC']
+hand2: ['2C', '5S', '7H', '8H', 'QC']
+pareja
+-------------------·
+hand1: ['5S', '9H', 'QD', 'QS', 'QC']
+hand2: ['4H', '5H', '9C', 'TH', 'JC']
+trio
+-------------------·
+hand1: ['3H', '3S', '5H', '6C', '6S']
+hand2: ['6H', '7S', '8D', 'KS', 'AC']
+doblepareja
+-------------------·
+hand1: ['4S', '7H', '8C', 'QH', 'AC']
+hand2: ['3D', '3S', '6C', 'TC', 'KC']
+pareja
+-------------------·
+hand1: ['3D', '9D', 'TH', 'JS', 'AC']
+hand2: ['3H', '3S', '5H', '8S', 'TC']
+pareja
+-------------------·
+hand1: ['9S', 'JS', 'QD', 'KH', 'KS']
+hand2: ['3C', '8D', 'QC', 'AH', 'AC']
+pareja
+-------------------·
+hand1: ['3S', '5H', '6C', '9S', 'KH']
+hand2: ['2D', '8C', 'JH', 'QD', 'AS']
+cartalata
+-------------------·
+hand1: ['4D', '5S', '6C', '7S', '7H']
+hand2: ['4H', '6S', '9H', 'JC', 'JH']
+pareja
+-------------------·
+hand1: ['5S', '6H', '9S', 'AH', 'AD']
+hand2: ['2H', '3S', '8C', '9D', 'TH']
+pareja
+-------------------·
+hand1: ['4C', '7C', '8D', '9H', 'QC']
+hand2: ['4S', '5S', '9C', 'KC', 'AD']
+cartalata
+-------------------·
+hand1: ['4D', '4C', '6H', '9D', 'TC']
+hand2: ['2S', '3S', '5D', 'JH', 'AS']
+pareja
+-------------------·
+hand1: ['2H', '5C', '6C', '7C', 'KH']
+hand2: ['8S', 'TH', 'JD', 'QS', 'AD']
+cartalata
+-------------------·
+hand1: ['3S', '4S', '7S', 'AH', 'AS']
+hand2: ['2S', 'TH', 'JS', 'KC', 'AD']
+pareja
+-------------------·
+hand1: ['2S', '7D', '8C', 'JS', 'KC']
+hand2: ['5C', '5H', '9C', '9D', 'TS']
+doblepareja
+-------------------·
+hand1: ['4D', '7S', '9S', 'TD', 'JH']
+hand2: ['2C', '5D', '6H', 'JS', 'KH']
+cartalata
+-------------------·
+hand1: ['2D', 'TH', 'JD', 'JS', 'JC']
+hand2: ['3D', '5H', '8C', 'QD', 'AC']
+trio
+-------------------·
+hand1: ['5S', '5D', '7S', '9D', 'KH']
+hand2: ['2D', '3C', '4S', '6H', 'TD']
+pareja
+-------------------·
+hand1: ['4S', '4D', '5D', '8D', 'AC']
+hand2: ['7C', '9C', 'AD', 'AS', 'AH']
+trio
+-------------------·
+hand1: ['2C', '6S', 'TH', 'TS', 'KS']
+hand2: ['3C', '4S', 'QC', 'AH', 'AS']
+pareja
+-------------------·
+hand1: ['2H', '3S', '5C', '8C', 'JC']
+hand2: ['3H', '3C', '7C', 'JH', 'KH']
+pareja
+-------------------·
+hand1: ['3H', '5S', '6H', '7S', 'JC']
+hand2: ['2S', '4C', '4D', '7H', 'KC']
+pareja
+-------------------·
+hand1: ['4D', '4H', '7C', '8S', '9S']
+hand2: ['6S', '6C', 'TC', 'JC', 'AD']
+pareja
+-------------------·
+hand1: ['3S', '4C', 'TC', 'QS', 'KH']
+hand2: ['3C', '8H', '8S', 'TS', 'AC']
+pareja
+-------------------·
+hand1: ['3C', 'TH', 'TS', 'QD', 'QS']
+hand2: ['7H', '7D', 'TD', 'JC', 'AH']
+doblepareja
+-------------------·
+hand1: ['4D', '9S', 'TD', 'JD', 'QC']
+hand2: ['7S', '7D', 'TS', 'AD', 'AC']
+doblepareja
+-------------------·
+hand1: ['4S', '6D', '7H', '7C', 'AH']
+hand2: ['2H', '9D', 'TD', 'JC', 'KS']
+pareja
+-------------------·
+hand1: ['4H', '6D', '7C', 'JD', 'AH']
+hand2: ['2H', '2C', '5C', 'TS', 'QS']
+cartalata
+-------------------·
+hand1: ['4C', '8C', '9S', 'TC', 'KC']
+hand2: ['3C', '6S', 'JS', 'JC', 'AH']
+pareja
+-------------------·
+hand1: ['3D', '5S', '7D', 'QC', 'AS']
+hand2: ['9D', 'TD', 'JC', 'JD', 'KH']
+pareja
+-------------------·
+hand1: ['2S', '3C', '6H', 'TH', 'AH']
+hand2: ['5H', '5C', '7S', '8H', 'AC']
+pareja
+-------------------·
+hand1: ['2D', '2S', 'QC', 'QD', 'AC']
+hand2: ['3S', '6S', '8H', 'JD', 'QS']
+doblepareja
+-------------------·
+hand1: ['3C', '4H', '9D', 'JS', 'KC']
+hand2: ['3S', '6H', '8S', '8C', 'AS']
+pareja
+-------------------·
+hand1: ['2H', '7H', '7D', 'JD', 'KC']
+hand2: ['3H', '5S', 'JC', 'QH', 'QS']
+pareja
+-------------------·
+hand1: ['3S', '7S', '8H', '9H', 'TD']
+hand2: ['5C', '6C', '7C', 'AC', 'AH']
+pareja
+-------------------·
+hand1: ['8D', '9H', 'TD', 'JD', 'AH']
+hand2: ['3S', '7D', '8S', '9C', 'QS']
+cartalata
+-------------------·
+hand1: ['3C', 'JD', 'QH', 'KC', 'AH']
+hand2: ['4S', '5S', '5D', 'TD', 'KS']
+pareja
+-------------------·
+hand1: ['6S', '7H', '9H', 'TH', 'JH']
+hand2: ['2D', '4C', '5C', '7C', 'AD']
+cartalata
+-------------------·
+hand1: ['5S', '7C', '9D', 'TC', 'KD']
+hand2: ['2S', '5D', '6S', '6C', 'TH']
+pareja
+-------------------·
+hand1: ['5H', '7H', '8D', '9H', 'KC']
+hand2: ['3D', '4H', '7C', 'QC', 'AS']
+cartalata
+-------------------·
+hand1: ['4S', '6S', '8S', 'TD', 'QC']
+hand2: ['2S', '5C', 'TH', 'QS', 'QD']
+pareja
+-------------------·
+hand1: ['5H', '8S', '9H', 'TH', 'QC']
+hand2: ['5C', '6S', '7D', '7C', 'KC']
+pareja
+-------------------·
+hand1: ['4D', '7H', 'KD', 'KH', 'AH']
+hand2: ['2D', '4S', '5C', 'QH', 'KC']
+pareja
+-------------------·
+hand1: ['2C', '6S', 'TD', 'JC', 'AS']
+hand2: ['4D', '4H', '5S', '6C', '8C']
+pareja
+-------------------·
+hand1: ['5S', '6S', 'TC', 'JC', 'JD']
+hand2: ['3S', '8D', '9D', 'AS', 'AD']
+pareja
+-------------------·
+hand1: ['5D', '5S', '6D', '6H', 'TC']
+hand2: ['3D', '7D', '9D', 'QS', 'QD']
+doblepareja
+-------------------·
+hand1: ['3S', '4S', '6C', '7S', '8S']
+hand2: ['2D', '7D', '7C', 'KS', 'AD']
+pareja
+-------------------·
+hand1: ['JC', 'QH', 'QD', 'KC', 'AC']
+hand2: ['5D', '7H', '7D', '8D', 'QS']
+pareja
+-------------------·
+hand1: ['3D', '5H', '8S', 'JS', 'AH']
+hand2: ['3H', '4S', '6C', 'TD', 'JH']
+cartalata
+-------------------·
+hand1: ['4S', '7D', '9H', 'QS', 'AS']
+hand2: ['5C', '6D', 'TC', 'JS', 'KS']
+cartalata
+-------------------·
+hand1: ['2D', '4D', '5C', '6H', 'TC']
+hand2: ['3D', '6C', '8S', '9H', 'QH']
+cartalata
+-------------------·
+hand1: ['5S', '6D', '7H', 'TC', 'TH']
+hand2: ['5C', '9C', 'JD', 'KS', 'KD']
+pareja
+-------------------·
+hand1: ['4S', '6S', '8D', 'TD', 'QH']
+hand2: ['5C', '6C', '8S', 'TC', 'KC']
+cartalata
+-------------------·
+hand1: ['3D', '4S', '5S', 'KS', 'AC']
+hand2: ['2S', '4C', '7D', 'TH', 'QD']
+cartalata
+-------------------·
+hand1: ['6S', '7S', '8H', '9S', 'TS']
+hand2: ['3C', '7H', '8C', 'QH', 'AH']
+straight
+-------------------·
+hand1: ['4C', '8C', 'TS', 'JS', 'QC']
+hand2: ['3D', '5D', '7D', '7S', 'JH']
+pareja
+-------------------·
+hand1: ['7S', '8S', '9D', 'QC', 'AC']
+hand2: ['2H', '6D', '7C', 'JH', 'KC']
+cartalata
+-------------------·
+hand1: ['3C', '4S', '6S', 'JS', 'KD']
+hand2: ['5H', '7C', 'QC', 'KS', 'AH']
+cartalata
+-------------------·
+hand1: ['4H', '6S', 'JD', 'QS', 'KS']
+hand2: ['6H', '8H', 'TC', 'KC', 'AS']
+cartalata
+-------------------·
+hand1: ['6S', '7C', 'TC', 'TD', 'KH']
+hand2: ['3S', '5C', '7D', 'JC', 'AH']
+pareja
+-------------------·
+hand1: ['3H', '4C', '4H', 'TC', 'TH']
+hand2: ['6S', '6D', '7H', '9C', 'QH']
+doblepareja
+-------------------·
+hand1: ['4S', '5H', '7D', '8C', 'JS']
+hand2: ['3D', '4D', '8S', 'QH', 'KC']
+cartalata
+-------------------·
+hand1: ['3H', '3S', '6S', '7H', 'AD']
+hand2: ['4S', '7S', '8S', 'JS', 'QC']
+pareja
+-------------------·
+hand1: ['3S', '6H', 'TH', 'JD', 'KH']
+hand2: ['2D', '6C', '9C', 'QS', 'QD']
+pareja
+-------------------·
+hand1: ['4S', '4D', '5H', 'QH', 'KC']
+hand2: ['5S', '6D', '7D', '8D', 'TH']
+pareja
+-------------------·
+hand1: ['6S', '7H', 'TD', 'KD', 'AD']
+hand2: ['5S', '9H', 'JC', 'KH', 'KC']
+pareja
+-------------------·
+hand1: ['3H', '4S', 'TS', 'QC', 'AS']
+hand2: ['7S', '9C', 'QD', 'KS', 'KC']
+pareja
+-------------------·
+hand1: ['6S', '6C', 'TS', 'TH', 'QC']
+hand2: ['5C', '5D', '9D', 'TC', 'KD']
+doblepareja
+-------------------·
+hand1: ['3S', '4H', '4C', 'JS', 'KD']
+hand2: ['6D', '9S', '9D', 'JC', 'QD']
+pareja
+-------------------·
+hand1: ['4H', '6D', '8S', 'JS', 'JH']
+hand2: ['6H', '6S', '6C', 'KS', 'KH']
+Full
+-------------------·
+hand1: ['5D', '7D', '9S', 'TC', 'AC']
+hand2: ['6S', '6H', 'QD', 'KH', 'AS']
+pareja
+-------------------·
+hand1: ['6D', '7H', '8D', 'QH', 'AS']
+hand2: ['2S', '5C', '5H', 'TH', 'KH']
+pareja
+-------------------·
+hand1: ['3D', '4C', '7C', 'TC', 'QC']
+hand2: ['2D', '4S', '8C', 'JS', 'KH']
+cartalata
+-------------------·
+hand1: ['5D', '5H', '6H', '7S', '9C']
+hand2: ['7H', '8S', '9H', 'TH', 'JH']
+straight
+-------------------·
+hand1: ['2S', 'JS', 'QD', 'KH', 'AS']
+hand2: ['4S', '8H', '8D', '8S', 'AC']
+trio
+-------------------·
+hand1: ['3H', '4C', '8C', 'TD', 'KD']
+hand2: ['2D', '5C', 'JC', 'JD', 'QS']
+pareja
+-------------------·
+hand1: ['2C', '5D', '6C', '7D', 'TS']
+hand2: ['2H', '3C', 'QS', 'KS', 'AH']
+cartalata
+-------------------·
+hand1: ['4S', '7C', '7D', '9C', 'JH']
+hand2: ['5C', '6C', '8H', '9D', 'QD']
+pareja
+-------------------·
+hand1: ['2S', '6D', '7S', '9C', 'TD']
+hand2: ['5C', '9S', 'QS', 'QH', 'KH']
+pareja
+-------------------·
+hand1: ['6S', '9C', 'JC', 'JH', 'QH']
+hand2: ['2H', '7S', '8D', 'JS', 'KH']
+pareja
+-------------------·
+hand1: ['4D', '5H', '8D', 'TH', 'KC']
+hand2: ['3S', '3D', '4S', '6S', 'QS']
+pareja
+-------------------·
+hand1: ['2D', '4C', '7C', 'TD', 'JD']
+hand2: ['6D', '7S', 'TH', 'JC', 'AH']
+cartalata
+-------------------·
+hand1: ['4C', '7S', '9D', 'TH', 'QS']
+hand2: ['3H', '4D', '6H', 'TS', 'AD']
+cartalata
+-------------------·
+hand1: ['2D', '3H', '3D', '7D', 'JD']
+hand2: ['2S', '8S', '9C', 'QC', 'AS']
+pareja
+-------------------·
+hand1: ['2C', '4H', '7S', '9H', '9C']
+hand2: ['5C', '5D', '6H', 'JH', 'KD']
+pareja
+-------------------·
+hand1: ['3C', '8H', '9H', 'TC', 'JC']
+hand2: ['8D', '9S', 'KS', 'KC', 'AD']
+pareja
+-------------------·
+hand1: ['5H', 'TS', 'JD', 'QS', 'QH']
+hand2: ['5D', '8D', 'QC', 'KH', 'AH']
+pareja
+-------------------·
+hand1: ['4C', '5D', '6S', '8S', 'AS']
+hand2: ['7H', 'TH', 'QC', 'QD', 'AH']
+pareja
+-------------------·
+hand1: ['3H', '4H', '4S', '6S', '7D']
+hand2: ['8H', '9H', '9D', 'JS', 'AS']
+pareja
+-------------------·
+hand1: ['2C', '7D', '8C', '9D', 'JD']
+hand2: ['5H', '5S', '9S', 'JC', 'KD']
+pareja
+-------------------·
+hand1: ['4S', '9C', 'QD', 'KD', 'AH']
+hand2: ['7C', '9D', 'TD', 'AD', 'AC']
+pareja
+-------------------·
+hand1: ['4H', '4S', '6S', '8D', '9C']
+hand2: ['7C', '9D', 'TC', 'JH', 'KS']
+pareja
+-------------------·
+hand1: ['4S', '5S', '5H', 'JC', 'QH']
+hand2: ['2C', '2S', '9S', 'JS', 'AC']
+pareja
+-------------------·
+hand1: ['5H', '8C', 'QD', 'AS', 'AD']
+hand2: ['5C', '7D', '8S', 'TD', 'QC']
+pareja
+-------------------·
+hand1: ['4C', '5C', '8D', 'JC', 'KH']
+hand2: ['2H', '2C', '4D', '6H', 'QS']
+cartalata
+-------------------·
+hand1: ['2D', '3H', '4S', 'TH', 'KC']
+hand2: ['7H', '9D', 'QD', 'AC', 'AD']
+pareja
+-------------------·
+hand1: ['8H', 'TH', 'QD', 'KH', 'AS']
+hand2: ['7S', '8D', '8C', 'QH', 'KC']
+pareja
+-------------------·
+hand1: ['6C', '7D', '8C', 'JC', 'KH']
+hand2: ['2H', '2D', '6S', 'QS', 'AD']
+cartalata
+-------------------·
+hand1: ['2D', '7D', 'JC', 'JS', 'KH']
+hand2: ['4C', '5H', '5D', 'QC', 'AD']
+pareja
+-------------------·
+hand1: ['3S', '4S', 'TS', 'TD', 'AD']
+hand2: ['2D', '6S', '9H', 'TH', 'JH']
+pareja
+-------------------·
+hand1: ['2D', '2C', '4S', '9H', 'QS']
+hand2: ['3D', '9D', 'KH', 'AS', 'AC']
+pareja
+-------------------·
+hand1: ['4S', '6S', '8H', 'KH', 'KD']
+hand2: ['7D', '9D', 'TS', 'QD', 'QC']
+pareja
+-------------------·
+hand1: ['5H', 'JH', 'KS', 'AH', 'AS']
+hand2: ['5S', 'JC', 'QC', 'KH', 'AD']
+pareja
+-------------------·
+hand1: ['5D', '6D', '7D', 'KS', 'KD']
+hand2: ['3D', '3S', '4D', '7C', 'JD']
+pareja
+-------------------·
+hand1: ['5H', '8D', '9C', 'JS', 'AC']
+hand2: ['2C', '3H', '4H', '4D', 'TS']
+pareja
+-------------------·
+hand1: ['6H', '7C', '9D', 'KS', 'KH']
+hand2: ['2S', '2H', '3D', '6S', '8S']
+pareja
+-------------------·
+hand1: ['3S', '6H', '7S', 'JS', 'AC']
+hand2: ['3H', '4H', '8H', 'TD', 'TH']
+pareja
+-------------------·
+hand1: ['5C', '9H', 'TC', 'QC', 'KC']
+hand2: ['4H', '6H', '8S', 'KS', 'AC']
+cartalata
+-------------------·
+hand1: ['4S', '7D', 'TC', 'JC', 'QH']
+hand2: ['6D', '6C', 'TS', 'KH', 'AC']
+pareja
+-------------------·
+hand1: ['7D', '7C', 'JH', 'QH', 'QS']
+hand2: ['3H', '5D', 'TH', 'QD', 'KS']
+doblepareja
+-------------------·
+hand1: ['3D', '4C', '5S', '8D', 'JS']
+hand2: ['2C', '4H', '7H', '9C', 'KS']
+cartalata
+-------------------·
+hand1: ['2C', '4H', '5H', '8S', 'TD']
+hand2: ['3S', '3H', 'QD', 'QC', 'KC']
+doblepareja
+-------------------·
+hand1: ['9C', 'JS', 'QC', 'KD', 'AD']
+hand2: ['5S', '7D', '7H', '9D', 'TS']
+pareja
+-------------------·
+hand1: ['7C', '7S', '8C', 'JC', 'KH']
+hand2: ['2C', '6C', 'TS', 'TH', 'QD']
+pareja
+-------------------·
+hand1: ['3C', '5S', '7S', '9D', 'TH']
+hand2: ['2H', '5H', '8S', '9C', 'QH']
+cartalata
+-------------------·
+hand1: ['2S', '5D', '6H', '9H', 'JS']
+hand2: ['2H', '3H', '5S', '7C', 'KH']
+cartalata
+-------------------·
+hand1: ['2C', '5D', '5S', 'TC', 'JD']
+hand2: ['2S', '3C', '6S', '6C', '8S']
+pareja
+-------------------·
+hand1: ['2D', '4D', '4H', '8H', 'KH']
+hand2: ['2S', '3H', '5C', '9H', 'KS']
+pareja
+-------------------·
+hand1: ['2D', '3S', '7H', '8S', 'TD']
+hand2: ['6H', '8D', '9C', 'JD', 'KC']
+cartalata
+-------------------·
+hand1: ['6S', '7C', '9H', 'JH', 'QD']
+hand2: ['5H', '8S', '8H', 'TH', 'TD']
+doblepareja
+-------------------·
+hand1: ['7S', '7D', 'TD', 'TS', 'QS']
+hand2: ['2C', '3C', '7C', 'JC', 'KD']
+doblepareja
+-------------------·
+hand1: ['2D', '3C', '4H', '8S', 'JD']
+hand2: ['2S', '4D', 'TD', 'AS', 'AC']
+pareja
+-------------------·
+hand1: ['4C', '4S', '6C', 'KS', 'AH']
+hand2: ['6H', '7D', '8C', '9H', 'AS']
+pareja
+-------------------·
+hand1: ['2C', '3C', '5S', '9S', 'QS']
+hand2: ['4D', '4S', '5D', 'KD', 'AC']
+pareja
+-------------------·
+hand1: ['2D', '2C', 'TS', 'JS', 'KH']
+hand2: ['5D', '8C', 'QH', 'KC', 'AS']
+cartalata
+-------------------·
+hand1: ['3H', '6C', '8S', 'TH', 'KD']
+hand2: ['6H', '7S', '9S', 'KH', 'AC']
+cartalata
+-------------------·
+hand1: ['6H', '6C', '7S', 'QS', 'AH']
+hand2: ['2S', '2H', '4H', '5D', '5H']
+doblepareja
+-------------------·
+hand1: ['2C', '2S', '5H', 'JC', 'QD']
+hand2: ['6S', '7D', 'JD', 'QC', 'AS']
+cartalata
+-------------------·
+hand1: ['6C', '8H', 'TC', 'KD', 'AS']
+hand2: ['2C', '7D', '9D', '9S', 'JH']
+pareja
+-------------------·
+hand1: ['2H', '4C', '6C', '8S', 'AH']
+hand2: ['3H', '7C', 'TD', 'TH', 'TS']
+trio
+-------------------·
+hand1: ['4S', '6C', 'TS', 'QH', 'KD']
+hand2: ['7D', '8D', '9D', '9C', 'AH']
+pareja
+-------------------·
+hand1: ['5C', '6D', 'JS', 'QD', 'QC']
+hand2: ['2H', '5D', '8C', '9C', 'KD']
+pareja
+-------------------·
+hand1: ['3C', '6S', 'JH', 'QH', 'AD']
+hand2: ['6D', '6H', '8S', 'KC', 'AH']
+pareja
+-------------------·
+hand1: ['3D', '4C', '5S', '7C', '7S']
+hand2: ['3S', '3C', '5H', '6S', 'JC']
+pareja
+-------------------·
+hand1: ['3C', '3S', '5H', '7C', 'QH']
+hand2: ['4C', '8C', '9C', 'TS', 'KD']
+pareja
+-------------------·
+hand1: ['3S', '5H', '7S', '7H', 'QD']
+hand2: ['7C', '8C', 'JC', 'QH', 'KD']
+pareja
+-------------------·
+hand1: ['2S', '3C', '4C', 'KD', 'KH']
+hand2: ['2C', '6S', '7C', 'TS', 'AC']
+pareja
+-------------------·
+hand1: ['2C', '3C', '4C', '6H', 'KH']
+hand2: ['4D', '5H', '5S', '7S', 'QD']
+pareja
+-------------------·
+hand1: ['4D', '7C', '8S', 'TS', 'QD']
+hand2: ['3C', '6H', '9D', 'KS', 'KD']
+pareja
+-------------------·
+hand1: ['4D', '4C', '7S', 'TS', 'QS']
+hand2: ['3H', '8D', '9S', 'TC', 'QD']
+pareja
+-------------------·
+hand1: ['3C', '6S', 'TS', 'QH', 'AC']
+hand2: ['6H', '8S', '9H', '9D', 'QS']
+pareja
+-------------------·
+hand1: ['3S', '4S', '5D', '7S', 'JS']
+hand2: ['2D', '6C', '6S', 'TH', 'QH']
+pareja
+-------------------·
+hand1: ['4C', '4H', '5D', 'JS', 'AS']
+hand2: ['3D', '8S', '9C', 'TS', 'AC']
+pareja
+-------------------·
+hand1: ['3S', '5C', '6S', '7C', '9C']
+hand2: ['3C', '6H', 'QS', 'AD', 'AS']
+pareja
+-------------------·
+hand1: ['3H', '6S', '7H', '8C', '9S']
+hand2: ['7C', '9H', 'JD', 'KH', 'AS']
+cartalata
+-------------------·
+hand1: ['3D', '3H', '4D', '6C', '7S']
+hand2: ['2H', '7C', '9C', 'TH', 'AC']
+pareja
+-------------------·
+hand1: ['3H', '4H', '5S', 'TC', 'AC']
+hand2: ['8D', '9C', '9H', '9S', 'TH']
+trio
+-------------------·
+hand1: ['4D', '5H', '6C', '8D', '9H']
+hand2: ['2H', '3S', '5D', '6S', 'QD']
+cartalata
+-------------------·
+hand1: ['4C', '4D', '5C', 'JD', 'QS']
+hand2: ['3H', '8C', 'TH', 'QH', 'AC']
+pareja
+-------------------·
+hand1: ['3C', '5S', '7H', 'QC', 'AD']
+hand2: ['4C', '4H', '6D', 'JD', 'KS']
+pareja
+-------------------·
+hand1: ['3H', '9H', 'QS', 'KS', 'AH']
+hand2: ['2S', '2H', '5H', 'JS', 'JH']
+doblepareja
+-------------------·
+hand1: ['2H', '5S', '6S', 'TH', 'TS']
+hand2: ['3S', '3C', '5H', 'JS', 'KS']
+pareja
+-------------------·
+hand1: ['2D', '3D', '7H', '9S', 'KC']
+hand2: ['6D', '7D', 'TD', 'JH', 'JS']
+pareja
+-------------------·
+hand1: ['2C', '8H', '8C', 'JS', 'AC']
+hand2: ['2D', '7S', 'TH', 'JH', 'JC']
+pareja
+-------------------·
+hand1: ['2H', '3D', '5D', '8H', '9S']
+hand2: ['9C', 'TC', 'JC', 'KD', 'AH']
+cartalata
+-------------------·
+hand1: ['2H', '6D', '9D', 'JC', 'QD']
+hand2: ['9S', 'TS', 'TH', 'QH', 'KH']
+pareja
+-------------------·
+hand1: ['2C', '4S', '5H', '8D', 'JD']
+hand2: ['3H', '9C', 'TH', 'TC', 'KC']
+pareja
+-------------------·
+hand1: ['3D', '4D', '7D', '9H', 'AS']
+hand2: ['2H', '3H', '7S', 'TH', 'KH']
+cartalata
+-------------------·
+hand1: ['2S', '4H', '7S', 'JS', 'KS']
+hand2: ['2H', '8S', '8D', 'TS', 'QD']
+pareja
+-------------------·
+hand1: ['5S', '6H', '8H', 'JH', 'KS']
+hand2: ['2S', '3S', '6S', 'QC', 'AC']
+cartalata
+-------------------·
+hand1: ['8H', 'JC', 'QS', 'AS', 'AD']
+hand2: ['4C', '4D', '6C', 'QD', 'KH']
+pareja
+-------------------·
+hand1: ['2S', '3D', '9S', 'TS', 'TD']
+hand2: ['5C', '6S', '8D', 'QS', 'KS']
+pareja
+-------------------·
+hand1: ['3C', '4S', '6D', 'QC', 'KC']
+hand2: ['TH', 'JH', 'QD', 'KH', 'AD']
+straight
+-------------------·
+hand1: ['2S', '4D', '9H', 'KS', 'AH']
+hand2: ['7C', '8D', 'JH', 'JC', 'QS']
+pareja
+-------------------·
+hand1: ['2D', '3C', '6C', '8H', 'TH']
+hand2: ['2S', '3S', 'QD', 'QH', 'KS']
+pareja
+-------------------·
+hand1: ['4C', '5D', '6H', '9S', 'TS']
+hand2: ['9D', 'TD', 'JS', 'JD', 'QD']
+pareja
+-------------------·
+hand1: ['5H', '8H', '8S', 'KH', 'KS']
+hand2: ['4S', '7C', 'TD', 'KD', 'AD']
+doblepareja
+-------------------·
+hand1: ['2C', '5S', '7C', 'JC', 'AS']
+hand2: ['5H', '6C', '7D', '8S', '9C']
+straight
+-------------------·
+hand1: ['6S', '9S', 'TS', 'QD', 'KH']
+hand2: ['3C', '5S', 'QS', 'QH', 'KC']
+pareja
+-------------------·
+hand1: ['3H', '3C', '5C', '7D', 'KD']
+hand2: ['6H', '7H', 'JH', 'JD', 'AS']
+pareja
+-------------------·
+hand1: ['5C', '8H', '9D', '9H', 'KC']
+hand2: ['2S', '4S', '4D', 'KS', 'AD']
+pareja
+-------------------·
+hand1: ['2S', '3S', '8D', 'JD', 'QD']
+hand2: ['5S', '5H', '6S', '7C', 'TS']
+pareja
+-------------------·
+hand1: ['3S', '6D', '9S', 'TD', 'KC']
+hand2: ['5C', '6H', '8D', 'JD', 'QD']
+cartalata
+-------------------·
+hand1: ['5H', '8D', '9D', 'TS', 'KD']
+hand2: ['4C', '6H', '7D', 'TD', 'QC']
+cartalata
+-------------------·
+hand1: ['4S', '6D', '9D', 'JD', 'AH']
+hand2: ['9S', '9H', 'TD', 'QD', 'AS']
+pareja
+-------------------·
+hand1: ['2D', '2H', '5S', '6H', '9C']
+hand2: ['7D', '9S', 'TD', 'TC', 'QC']
+pareja
+-------------------·
+hand1: ['2H', '2C', '3S', 'TS', 'KS']
+hand2: ['7D', '8S', '9C', '9D', 'JS']
+pareja
+-------------------·
+hand1: ['3C', '5D', '6D', '6C', 'KC']
+hand2: ['6H', '7S', '8S', 'QS', 'AS']
+pareja
+-------------------·
+hand1: ['2H', '4C', '8D', '9S', 'JH']
+hand2: ['8H', '9H', 'TH', 'KH', 'AD']
+cartalata
+-------------------·
+hand1: ['2S', '5C', 'JS', 'QC', 'AS']
+hand2: ['2C', '3H', '6H', '7H', 'KD']
+cartalata
+-------------------·
+hand1: ['2S', '3S', '8H', '8D', 'QD']
+hand2: ['2C', '5C', '6D', 'TC', 'AH']
+pareja
+-------------------·
+hand1: ['3H', '8S', 'TS', 'JD', 'JS']
+hand2: ['5D', '6H', 'TD', 'JC', 'KC']
+pareja
+-------------------·
+hand1: ['3H', '5D', '6S', 'TC', 'QS']
+hand2: ['4H', '7C', '7D', 'JC', 'AH']
+pareja
+-------------------·
+hand1: ['2H', '5D', '7C', '8H', '9C']
+hand2: ['2C', '5S', '9H', 'JH', 'KH']
+cartalata
+-------------------·
+hand1: ['3S', '6S', '7H', '9C', 'TH']
+hand2: ['4C', 'JD', 'QC', 'QD', 'AC']
+pareja
+-------------------·
+hand1: ['2H', '5D', '7D', '9S', 'KC']
+hand2: ['2D', '3S', 'QS', 'KH', 'AS']
+cartalata
+-------------------·
+hand1: ['2S', '2H', '4S', '5C', '7D']
+hand2: ['4D', '9S', 'TD', 'TH', 'QH']
+pareja
+-------------------·
+hand1: ['3S', '4H', '6D', '6H', 'TS']
+hand2: ['2D', '5S', '8H', '9D', 'KS']
+pareja
+-------------------·
+hand1: ['3S', '4H', '5C', '9H', 'KS']
+hand2: ['5D', '6H', '6S', 'JS', 'KH']
+pareja
+-------------------·
+hand1: ['4C', '8C', 'JC', 'KC', 'AS']
+hand2: ['TH', 'QC', 'QD', 'KH', 'AH']
+pareja
+-------------------·
+hand1: ['2C', '5H', '6S', '9S', 'KH']
+hand2: ['3C', '4D', '7H', 'TC', 'JC']
+cartalata
+-------------------·
+hand1: ['4S', '5S', '6S', '8D', 'JD']
+hand2: ['2H', '4D', '4C', '7H', '7S']
+doblepareja
+-------------------·
+hand1: ['5D', '7H', '9H', '9C', 'KH']
+hand2: ['5H', '7C', '7S', 'TS', 'TC']
+doblepareja
+-------------------·
+hand1: ['4C', '4S', '8D', 'TS', 'QC']
+hand2: ['3D', '7C', '9H', 'JS', 'AD']
+pareja
+-------------------·
+hand1: ['3H', '5C', '5D', '8C', 'QS']
+hand2: ['4S', '9D', 'JS', 'KC', 'AH']
+pareja
+-------------------·
+hand1: ['8S', 'TS', 'TH', 'JD', 'QS']
+hand2: ['2D', 'JH', 'JS', 'QD', 'KH']
+pareja
+-------------------·
+hand1: ['5D', '6S', '9H', 'JD', 'QC']
+hand2: ['2C', '3S', '8H', '9S', 'TS']
+cartalata
+-------------------·
+hand1: ['2S', '4C', '7H', 'JC', 'AD']
+hand2: ['2D', '3D', '4H', '5C', '6D']
+cartalata
+-------------------·
+hand1: ['2C', '4H', '7S', '8C', 'JS']
+hand2: ['3S', '9C', 'TD', 'QD', 'AD']
+cartalata
+-------------------·
+hand1: ['4C', '6H', '9H', 'TS', 'JD']
+hand2: ['3C', '6D', '7D', 'QD', 'AS']
+cartalata
+-------------------·
+hand1: ['4C', '5D', '6S', '7C', 'AS']
+hand2: ['4S', '5S', '5C', 'JS', 'QC']
+pareja
+-------------------·
+hand1: ['3C', '6S', '7C', '9S', 'KD']
+hand2: ['5S', '7D', 'JH', 'JS', 'QD']
+pareja
+-------------------·
+hand1: ['2C', '4S', '7S', '8S', 'JH']
+hand2: ['3D', '5D', '7H', 'QH', 'AD']
+cartalata
+-------------------·
+hand1: ['2H', '4H', '6H', '8D', 'TD']
+hand2: ['2D', '5D', '7C', 'KH', 'AD']
+cartalata
+-------------------·
+hand1: ['2C', '3S', '5H', 'TS', 'QD']
+hand2: ['2S', '5C', 'TD', 'KH', 'AH']
+cartalata
+-------------------·
+hand1: ['4D', '5D', '8C', 'KC', 'AS']
+hand2: ['2H', '2S', '6C', '7C', '9H']
+cartalata
+-------------------·
+hand1: ['TS', 'JS', 'QC', 'QS', 'KD']
+hand2: ['2C', '5D', 'JH', 'KH', 'AD']
+pareja
+-------------------·
+hand1: ['3S', '5H', '6C', '9H', 'KC']
+hand2: ['2H', '3H', '7D', '7S', 'AD']
+pareja
+-------------------·
+hand1: ['7S', '8S', 'JS', 'JH', 'KD']
+hand2: ['2S', '2H', '7D', '7C', '9H']
+doblepareja
+-------------------·
+hand1: ['2D', '6S', '8D', '9H', 'QC']
+hand2: ['5H', '6C', '8H', 'AD', 'AS']
+pareja
+-------------------·
+hand1: ['2S', '6C', '6D', '7H', '7D']
+hand2: ['3C', '5D', '8C', '9D', 'JC']
+doblepareja
+-------------------·
+hand1: ['2H', '7C', '7H', '9C', 'JD']
+hand2: ['3S', '4S', 'KD', 'KH', 'AD']
+pareja
+-------------------·
+hand1: ['4D', '9H', 'JD', 'QH', 'AS']
+hand2: ['5H', 'TS', 'KS', 'KD', 'KH']
+trio
+-------------------·
+hand1: ['3S', '3D', '4C', '5S', '8H']
+hand2: ['7D', '7S', 'TD', 'KC', 'AD']
+pareja
+-------------------·
+hand1: ['5S', '8S', '8H', 'JS', 'JC']
+hand2: ['4D', '5D', '9C', 'TH', 'KC']
+doblepareja
+-------------------·
+hand1: ['2C', '5S', '7C', '9C', 'QD']
+hand2: ['5H', '8D', 'JS', 'QH', 'KH']
+cartalata
+-------------------·
+hand1: ['2S', '3D', 'TD', 'KS', 'AD']
+hand2: ['3C', '5D', '7S', 'TC', 'KC']
+cartalata
+-------------------·
+hand1: ['2S', '4C', '6C', 'QS', 'AD']
+hand2: ['5C', '9S', 'TH', 'QD', 'QH']
+pareja
+-------------------·
+hand1: ['2D', '2S', '8C', 'QS', 'AD']
+hand2: ['6C', 'JD', 'JC', 'KC', 'KS']
+doblepareja
+-------------------·
+hand1: ['2H', '4D', '5D', '8D', 'JS']
+hand2: ['7S', '7D', 'TS', 'QD', 'QH']
+doblepareja
+-------------------·
+hand1: ['3S', '6S', '7H', '8C', '8S']
+hand2: ['6C', '8H', '9D', '9S', 'QS']
+pareja
+-------------------·
+hand1: ['2S', '4S', '5C', 'TC', 'QD']
+hand2: ['4D', '6D', '6S', 'TH', 'QS']
+pareja
+-------------------·
+hand1: ['3S', '5C', '6H', '8D', '9D']
+hand2: ['4C', '7D', '7C', 'TC', 'TD']
+doblepareja
+-------------------·
+hand1: ['5S', '6S', '7H', 'AH', 'AS']
+hand2: ['3H', '4C', '5H', 'KD', 'AC']
+pareja
+-------------------·
+hand1: ['8D', '8S', 'QS', 'KS', 'AH']
+hand2: ['2C', '5D', '6H', '7D', 'AD']
+pareja
+-------------------·
+hand1: ['2H', '6H', '9H', '9S', 'QS']
+hand2: ['2D', '5D', '8S', '9C', 'KD']
+pareja
+-------------------·
+hand1: ['5S', '7D', 'TS', 'JH', 'QC']
+hand2: ['7S', '9S', '9H', 'TH', 'AC']
+pareja
+-------------------·
+hand1: ['3H', '4D', '6S', '7H', 'KC']
+hand2: ['4S', '5C', '6D', 'TS', 'QD']
+cartalata
+-------------------·
+hand1: ['2S', '3H', '7C', 'TD', 'QD']
+hand2: ['4H', '7S', '7H', '9D', 'JH']
+pareja
+-------------------·
+hand1: ['3D', '4H', '5H', 'TC', 'KS']
+hand2: ['2S', '2D', '6D', '7D', 'AS']
+cartalata
+-------------------·
+hand1: ['3C', '3H', '7H', '8H', 'TD']
+hand2: ['9C', 'TH', 'KC', 'KH', 'AD']
+pareja
+-------------------·
+hand1: ['2C', '4C', '9S', '9D', 'TC']
+hand2: ['2H', '3C', '5C', '9C', 'JD']
+pareja
+-------------------·
+hand1: ['3H', '5D', 'TS', 'AC', 'AD']
+hand2: ['6H', '6S', '8D', '8C', 'QC']
+doblepareja
+-------------------·
+hand1: ['2S', '3S', '7H', 'TS', 'JD']
+hand2: ['4C', '5S', '8S', '8D', 'QH']
+pareja
+-------------------·
+hand1: ['3C', '4S', '6C', 'KH', 'AC']
+hand2: ['2D', '2H', '3D', '7C', '8S']
+cartalata
+-------------------·
+hand1: ['2H', '4H', '6C', '8S', 'TH']
+hand2: ['3H', '4S', '7S', '8H', '9S']
+cartalata
+-------------------·
+hand1: ['2C', '4C', '5C', '7C', '9C']
+hand2: ['4D', '5D', 'QH', 'KD', 'AS']
+flush
+-------------------·
+hand1: ['4H', '7D', '9H', 'TS', 'AS']
+hand2: ['2H', '5D', '8D', '8C', '9S']
+pareja
+-------------------·
+hand1: ['2H', 'QC', 'KD', 'AC', 'AD']
+hand2: ['2D', '3S', '7S', '9S', 'AS']
+pareja
+-------------------·
+hand1: ['2H', '6D', '8H', 'TC', 'QC']
+hand2: ['3C', '5D', 'QD', 'QS', 'KH']
+pareja
+-------------------·
+hand1: ['2S', '4C', 'TH', 'JD', 'QS']
+hand2: ['3S', '5S', '7H', 'AD', 'AS']
+pareja
+-------------------·
+hand1: ['3D', '3S', '6C', '7H', 'JS']
+hand2: ['6D', '9S', 'QS', 'AS', 'AC']
+pareja
+-------------------·
+hand1: ['8C', '9C', 'TS', 'TC', 'AS']
+hand2: ['6H', '6C', '8S', '8D', '9D']
+doblepareja
+-------------------·
+hand1: ['4D', '7C', '9C', 'JD', 'KC']
+hand2: ['3S', '6D', '8C', 'KS', 'AS']
+cartalata
+-------------------·
+hand1: ['3H', '6S', '8D', 'TC', 'TS']
+hand2: ['3S', '7C', '9S', 'KC', 'AS']
+pareja
+-------------------·
+hand1: ['4H', '4S', '8C', '8S', 'QC']
+hand2: ['3S', '6C', 'TC', 'AH', 'AC']
+doblepareja
+-------------------·
+hand1: ['2H', '4D', '5C', '7D', 'AS']
+hand2: ['6S', 'TS', 'TC', 'QC', 'AD']
+pareja
+-------------------·
+hand1: ['4S', '8S', 'TH', 'QD', 'QC']
+hand2: ['3D', '4H', 'TS', 'JH', 'AH']
+pareja
+-------------------·
+hand1: ['2D', '2C', '3H', '5C', '9S']
+hand2: ['3C', '7D', '9D', 'QD', 'QH']
+pareja
+-------------------·
+hand1: ['6C', '7S', '9H', 'KC', 'KD']
+hand2: ['2D', '3C', '4D', 'TC', 'AS']
+pareja
+-------------------·
+hand1: ['3D', '4D', '9D', 'JS', 'KS']
+hand2: ['3H', '3C', '7D', 'TH', 'QC']
+pareja
+-------------------·
+hand1: ['2H', '3H', '5S', '8D', '9D']
+hand2: ['3C', '4C', '4H', '8C', 'TH']
+pareja
+-------------------·
+hand1: ['4S', '6S', 'TH', 'JC', 'JD']
+hand2: ['2D', '3D', '4D', '4C', '6C']
+pareja
+-------------------·
+hand1: ['2D', '3S', '4H', 'TS', 'AC']
+hand2: ['2C', '2H', '6S', '6H', 'JH']
+doblepareja
+-------------------·
+hand1: ['8S', 'TD', 'TC', 'AD', 'AH']
+hand2: ['6S', '7S', '9S', 'JH', 'AC']
+doblepareja
+-------------------·
+hand1: ['4S', '6C', '8D', 'JD', 'KC']
+hand2: ['5S', '7H', '9H', 'QH', 'AH']
+cartalata
+-------------------·
+hand1: ['5C', '8D', 'TS', 'JH', 'KD']
+hand2: ['3H', '5H', 'JS', 'AD', 'AS']
+pareja
+-------------------·
+hand1: ['2D', '3D', '4H', '6C', '8C']
+hand2: ['5D', '5C', '7S', '8S', 'AD']
+pareja
+-------------------·
+hand1: ['4S', '5D', '7S', '9C', 'TD']
+hand2: ['4C', '5H', '6C', '8C', '8S']
+pareja
+-------------------·
+hand1: ['5C', '9C', 'JS', 'QH', 'AS']
+hand2: ['3D', '7C', 'JC', 'QS', 'QC']
+pareja
+-------------------·
+hand1: ['9C', 'JC', 'JH', 'QS', 'KH']
+hand2: ['2C', '3D', 'TS', 'QC', 'AD']
+pareja
+-------------------·
+hand1: ['5D', '5C', '9S', 'JH', 'AC']
+hand2: ['4C', '8C', 'TS', 'JD', 'KS']
+pareja
+-------------------·
+hand1: ['2D', '9H', 'KC', 'KH', 'AS']
+hand2: ['2C', '3D', '4D', '5S', '6H']
+pareja
+-------------------·
+hand1: ['2D', '8S', 'TH', 'JC', 'AH']
+hand2: ['3D', '3S', '7S', '8C', 'QH']
+pareja
+-------------------·
+hand1: ['4H', '8H', 'JC', 'QD', 'AS']
+hand2: ['3C', '6D', '9S', 'KH', 'KS']
+pareja
+-------------------·
+hand1: ['4S', '7D', '9S', '9C', 'QH']
+hand2: ['4D', '7H', 'KH', 'KD', 'AC']
+pareja
+-------------------·
+hand1: ['6D', '9C', 'TH', 'AH', 'AD']
+hand2: ['4H', '9S', 'QH', 'KD', 'KS']
+pareja
+-------------------·
+hand1: ['6H', '7C', '9C', 'QD', 'QS']
+hand2: ['5S', '6D', '6S', '9D', 'JH']
+pareja
+-------------------·
+hand1: ['2H', '5H', '8D', 'QD', 'AH']
+hand2: ['4H', '5S', 'JC', 'KS', 'KH']
+pareja
+-------------------·
+hand1: ['2S', '5C', '8D', '9C', 'JS']
+hand2: ['3D', '8C', 'KC', 'AS', 'AH']
+pareja
+-------------------·
+hand1: ['2H', '8H', '9S', 'JD', 'QS']
+hand2: ['4C', '5S', '5C', '8C', 'TH']
+pareja
+-------------------·
+hand1: ['2S', '2C', '8C', 'QC', 'QS']
+hand2: ['3S', '4C', '9C', 'KS', 'KH']
+doblepareja
+-------------------·
+hand1: ['2D', '5D', '8S', 'AH', 'AD']
+hand2: ['2C', '8C', 'TD', 'JS', 'KS']
+pareja
+-------------------·
+hand1: ['5S', '5H', '8H', 'TC', 'QC']
+hand2: ['4H', '6H', '9H', '9S', 'JD']
+pareja
+-------------------·
+hand1: ['3C', '4H', '9H', 'JH', 'AH']
+hand2: ['2H', '4S', '4C', '8D', 'AC']
+pareja
+-------------------·
+hand1: ['4D', '6D', '7D', '8S', 'TH']
+hand2: ['7S', '7C', 'TC', 'QD', 'QS']
+doblepareja
+-------------------·
+hand1: ['2D', '5H', '6D', 'JD', 'KH']
+hand2: ['4H', '4S', 'JS', 'JH', 'QD']
+doblepareja
+-------------------·
+hand1: ['3S', '4S', '7S', '9C', 'JH']
+hand2: ['4H', '8C', 'TS', 'TC', 'QC']
+pareja
+-------------------·
+hand1: ['4D', '9D', 'JH', 'QH', 'QS']
+hand2: ['2C', '2D', '3S', '6C', '7C']
+pareja
+-------------------·
+hand1: ['4H', '5C', '5H', '9S', 'JD']
+hand2: ['2D', '4C', '9D', 'TS', 'AH']
+pareja
+-------------------·
+hand1: ['2D', '5D', 'TS', 'JH', 'KS']
+hand2: ['7H', '8D', 'JS', 'AH', 'AS']
+pareja
+-------------------·
+hand1: ['8C', 'JS', 'KS', 'AH', 'AD']
+hand2: ['2C', '5S', '6C', '8H', 'TH']
+pareja
+-------------------·
+hand1: ['2H', '5D', 'KS', 'AD', 'AC']
+hand2: ['3D', '6H', '8H', 'TS', 'QC']
+pareja
+-------------------·
+hand1: ['4H', '5H', '6D', '9C', 'TS']
+hand2: ['4C', '6S', 'JS', 'JH', 'JD']
+trio
+-------------------·
+hand1: ['2C', '4H', '6D', 'JH', 'QH']
+hand2: ['3C', '4C', '5D', 'QS', 'KC']
+cartalata
+-------------------·
+hand1: ['4H', '6H', '6C', '6S', '7H']
+hand2: ['2S', '8S', '8C', 'QC', 'KH']
+trio
+-------------------·
+hand1: ['3H', '3D', '4H', '5D', 'KS']
+hand2: ['3S', '4D', 'TD', 'TS', 'AD']
+pareja
+-------------------·
+hand1: ['2C', '5S', '7C', '7D', '8S']
+hand2: ['6C', '7S', '8C', 'JS', 'KS']
+pareja
+-------------------·
+hand1: ['2H', '3S', '5D', '5C', '7C']
+hand2: ['5H', '6D', '9C', '9H', 'QD']
+pareja
+-------------------·
+hand1: ['2S', '8D', '9S', 'JS', 'KD']
+hand2: ['8C', '9D', 'TD', 'TS', 'AC']
+pareja
+-------------------·
+hand1: ['2S', '5H', '8C', 'QD', 'AC']
+hand2: ['3C', '4S', '7C', '9H', 'KS']
+cartalata
+-------------------·
+hand1: ['3H', '8S', '9C', 'KH', 'AS']
+hand2: ['4S', '4D', 'JS', 'QS', 'AD']
+pareja
+-------------------·
+hand1: ['2S', '4D', 'TD', 'AS', 'AD']
+hand2: ['4C', '5H', '9H', 'JC', 'QS']
+pareja
+-------------------·
+hand1: ['2D', '4H', '5D', '7C', 'TC']
+hand2: ['3S', '4S', '6C', 'JS', 'KC']
+cartalata
+-------------------·
+hand1: ['2C', '4C', '5D', '9H', 'AC']
+hand2: ['3D', '8S', 'JD', 'QS', 'QH']
+pareja
+-------------------·
+hand1: ['2C', '3C', '6H', '8S', 'QH']
+hand2: ['6D', 'TC', 'KD', 'AC', 'AH']
+pareja
+-------------------·
+hand1: ['3S', '4S', '6C', 'QC', 'QS']
+hand2: ['5C', '8D', 'KH', 'AC', 'AD']
+pareja
+-------------------·
+hand1: ['4C', '5S', 'KH', 'AC', 'AS']
+hand2: ['2C', '5C', '8D', '9C', 'QC']
+pareja
+-------------------·
+hand1: ['3C', '8H', '8D', 'JD', 'KH']
+hand2: ['5C', '9C', '9D', 'QD', 'QH']
+doblepareja
+-------------------·
+hand1: ['2C', '4S', '7H', '8C', 'TS']
+hand2: ['5H', '9C', 'TD', 'JC', 'QH']
+cartalata
+-------------------·
+hand1: ['2C', '4S', '7C', 'TH', 'JS']
+hand2: ['6C', '7S', 'JD', 'KS', 'AS']
+cartalata
+-------------------·
+hand1: ['7C', '7H', '9H', 'TC', 'JH']
+hand2: ['3D', '4D', '5H', '5D', '6D']
+pareja
+-------------------·
+hand1: ['2C', '2H', '9D', 'JH', 'QD']
+hand2: ['3D', '5S', 'TD', 'KS', 'AD']
+cartalata
+-------------------·
+hand1: ['3S', '4D', 'TH', 'JD', 'QH']
+hand2: ['4H', '6S', '7D', 'QS', 'KS']
+cartalata
+-------------------·
+hand1: ['5S', '8D', '8H', 'TC', 'KS']
+hand2: ['2S', '2D', '4C', 'JH', 'AD']
+pareja
+-------------------·
+hand1: ['2D', '3S', '5S', 'TC', 'JH']
+hand2: ['4C', '9D', '9S', 'QS', 'KD']
+pareja
+-------------------·
+hand1: ['3H', '9D', 'KH', 'AC', 'AS']
+hand2: ['6C', '6S', '9H', 'QD', 'KC']
+pareja
+-------------------·
+hand1: ['3D', '5C', '7S', '7D', '9H']
+hand2: ['4H', '6S', '8H', 'TD', 'KC']
+pareja
+-------------------·
+hand1: ['3C', '7H', '8H', 'TC', 'QD']
+hand2: ['4D', '6S', '6C', '7S', 'QH']
+pareja
+-------------------·
+hand1: ['4C', '6D', '6C', 'QD', 'AD']
+hand2: ['5D', '7D', '9D', 'TS', 'KS']
+pareja
+-------------------·
+hand1: ['2H', '7S', '9S', 'JH', 'JD']
+hand2: ['5D', '8D', '8H', 'TS', 'KH']
+pareja
+-------------------·
+hand1: ['2D', '4C', '7D', '9S', '9D']
+hand2: ['5H', '6D', '6S', 'QD', 'AC']
+pareja
+-------------------·
+hand1: ['6D', '7S', 'JC', 'JH', 'QD']
+hand2: ['2H', '4C', '6S', '7D', 'QS']
+pareja
+-------------------·
+hand1: ['2H', '8C', 'TD', 'JH', 'KD']
+hand2: ['2C', '5C', '7S', 'JS', 'QS']
+cartalata
+-------------------·
+hand1: ['4H', '5H', 'TC', 'JH', 'QD']
+hand2: ['3S', '5S', '5D', '8S', 'KH']
+pareja
+-------------------·
+hand1: ['2C', '5D', '7C', 'KS', 'KH']
+hand2: ['6S', '6D', '9C', 'JH', 'JC']
+doblepareja
+-------------------·
+hand1: ['5H', '9C', 'JD', 'JS', 'AH']
+hand2: ['2H', '4D', '5S', '6H', 'KC']
+pareja
+-------------------·
+hand1: ['3C', '6H', 'TH', 'QC', 'AS']
+hand2: ['7C', '8S', '8C', '9C', 'TD']
+pareja
+-------------------·
+hand1: ['2C', '9C', 'QD', 'KC', 'KH']
+hand2: ['3C', '4D', '7S', '9H', 'TS']
+pareja
+-------------------·
+hand1: ['2S', '8C', '9C', 'TS', 'QC']
+hand2: ['3S', '3C', '9S', 'TD', 'QD']
+pareja
+-------------------·
+hand1: ['4D', '9D', 'TH', 'JH', 'AH']
+hand2: ['2S', '6S', 'JD', 'JS', 'QH']
+pareja
+-------------------·
+hand1: ['6C', '7D', '9H', 'QD', 'KD']
+hand2: ['5D', '6S', '7H', '8H', 'AH']
+cartalata
+-------------------·
+hand1: ['2H', '3C', '4S', '5H', '8H']
+hand2: ['4H', '7S', 'QS', 'QH', 'AC']
+pareja
+-------------------·
+hand1: ['3C', '4H', '7S', '9S', 'QS']
+hand2: ['3S', '7C', '9D', 'KS', 'AH']
+cartalata
+-------------------·
+hand1: ['2H', '2D', '5S', '6S', 'AD']
+hand2: ['3C', '4S', '5H', '8C', 'TC']
+cartalata
+-------------------·
+hand1: ['4D', '6S', 'TS', 'JS', 'QH']
+hand2: ['6D', '8S', 'JH', 'KS', 'AS']
+cartalata
+-------------------·
+hand1: ['2C', '2S', '5H', '8S', 'TD']
+hand2: ['6C', 'TC', 'TS', 'KC', 'AS']
+pareja
+-------------------·
+hand1: ['2H', '3H', '8H', 'TS', 'KC']
+hand2: ['4C', '5S', '7C', 'TH', 'TD']
+pareja
+-------------------·
+hand1: ['7H', '7S', 'KD', 'KH', 'AD']
+hand2: ['2D', '5D', '5H', '5S', '9C']
+trio
+-------------------·
+hand1: ['3D', '7S', '8C', '9S', 'AD']
+hand2: ['7C', '9C', 'QC', 'KD', 'KS']
+pareja
+-------------------·
+hand1: ['3C', '4D', '8C', '9S', 'QC']
+hand2: ['2C', '5C', '6C', 'QD', 'AS']
+cartalata
+-------------------·
+hand1: ['2H', '7S', '8S', 'JD', 'KC']
+hand2: ['2S', '4D', '5C', '8D', 'AC']
+cartalata
+-------------------·
+hand1: ['2S', '3D', '9D', 'TC', 'QH']
+hand2: ['3S', '3C', '9H', 'TD', 'KS']
+pareja
+-------------------·
+hand1: ['2C', '6S', '7H', 'KD', 'AC']
+hand2: ['3S', '5H', '6C', '6H', '8C']
+pareja
+-------------------·
+hand1: ['6S', '8S', 'TC', 'QH', 'KH']
+hand2: ['4H', '4D', '5D', 'TH', 'TS']
+doblepareja
+-------------------·
+hand1: ['2C', '4H', '6H', '8C', 'JS']
+hand2: ['2H', '3D', '7D', 'QD', 'AC']
+cartalata
+-------------------·
+hand1: ['2D', '5S', '6S', 'QS', 'KC']
+hand2: ['3H', '4H', '4C', 'TD', 'JH']
+pareja
+-------------------·
+hand1: ['5H', '7S', '7H', '8H', 'KH']
+hand2: ['6H', '7D', 'TH', 'QS', 'KD']
+pareja
+-------------------·
+hand1: ['5H', '7C', 'KD', 'KH', 'AD']
+hand2: ['3C', '5S', '6D', '6C', 'TD']
+pareja
+-------------------·
+hand1: ['5H', '7C', '8C', '9C', 'JD']
+hand2: ['2H', '3S', '7H', 'KC', 'KH']
+pareja
+-------------------·
+hand1: ['4H', '4D', '7S', '8S', 'AD']
+hand2: ['3D', '5S', '7H', 'TH', 'QS']
+pareja
+-------------------·
+hand1: ['8D', '9S', 'TC', 'KS', 'KD']
+hand2: ['2S', '5C', '6D', 'JD', 'AD']
+pareja
+-------------------·
+hand1: ['2H', '6C', '7H', '8H', 'QD']
+hand2: ['6H', '7C', '9D', '9S', 'TC']
+pareja
+-------------------·
+hand1: ['4C', '6D', '6C', '7C', '8D']
+hand2: ['3C', 'TH', 'JS', 'JH', 'KH']
+pareja
+-------------------·
+hand1: ['3S', '5S', '8S', '9H', 'JS']
+hand2: ['7S', '8H', 'KD', 'AS', 'AD']
+pareja
+-------------------·
+hand1: ['2C', '5H', '7C', 'JH', 'KC']
+hand2: ['9C', '9S', 'JS', 'AS', 'AD']
+doblepareja
+-------------------·
+hand1: ['2C', '6S', 'QD', 'AD', 'AC']
+hand2: ['3H', '7C', 'TH', 'KS', 'KD']
+pareja
+-------------------·
+hand1: ['4H', '4C', '8H', '9D', 'JD']
+hand2: ['7S', '8C', 'TS', 'KH', 'KC']
+pareja
+-------------------·
+hand1: ['2H', '3S', '5S', '6H', '7S']
+hand2: ['5C', '6D', '7D', 'KS', 'AD']
+cartalata
+-------------------·
+hand1: ['5S', '7H', '8C', '9H', 'QS']
+hand2: ['2H', '6C', '7S', '7D', 'TD']
+pareja
+-------------------·
+hand1: ['5S', '9D', 'TD', 'QS', 'AC']
+hand2: ['2D', '3D', '4D', 'TC', 'KC']
+cartalata
+-------------------·
+hand1: ['2H', '7D', 'TD', 'JD', 'QD']
+hand2: ['3D', '4C', '5D', '7H', 'KC']
+cartalata
+-------------------·
+hand1: ['3H', '4C', '8S', 'QH', 'KD']
+hand2: ['5S', '5H', '9H', 'TC', 'QC']
+pareja
+-------------------·
+hand1: ['5H', '9C', 'TH', 'TS', 'QD']
+hand2: ['2C', '5C', '9H', 'QH', 'AH']
+pareja
+-------------------·
+hand1: ['3C', '4D', '6S', '6C', 'AC']
+hand2: ['2C', '2H', '3D', 'TD', 'TH']
+doblepareja
+-------------------·
+hand1: ['4D', '5D', '9C', 'QC', 'AC']
+hand2: ['6D', '8D', '8C', 'KC', 'AD']
+pareja
+-------------------·
+hand1: ['3C', '4H', '8D', 'AD', 'AC']
+hand2: ['7S', '8H', '9S', 'TD', 'JC']
+straight
+-------------------·
+hand1: ['2D', '4H', '9H', 'JS', 'QH']
+hand2: ['TH', 'TD', 'TC', 'KD', 'KS']
+Full
+-------------------·
+hand1: ['5S', '6S', '8D', '9S', 'TH']
+hand2: ['5H', '5C', '8S', 'KH', 'AS']
+pareja
+-------------------·
+hand1: ['2S', '5S', '6S', '9S', 'JD']
+hand2: ['5D', '7S', '7H', '8S', '9D']
+pareja
+-------------------·
+hand1: ['4C', '5D', '8C', '9D', 'AD']
+hand2: ['2C', '7D', 'TS', 'TC', 'KD']
+pareja
+-------------------·
+hand1: ['4D', '5C', '8S', 'QS', 'KC']
+hand2: ['4S', '8D', 'JD', 'KH', 'KD']
+pareja
+-------------------·
+hand1: ['5C', '7D', 'QH', 'AS', 'AD']
+hand2: ['2H', '7H', '7C', '9S', 'TC']
+pareja
+-------------------·
+hand1: ['2S', '7S', '8S', 'JD', 'KH']
+hand2: ['5D', '6C', '6D', 'QC', 'AD']
+pareja
+-------------------·
+hand1: ['3S', '6H', '8C', '8H', '9H']
+hand2: ['4H', 'TC', 'TD', 'JS', 'AH']
+pareja
+-------------------·
+hand1: ['2C', '2D', '4D', '7H', 'TS']
+hand2: ['5D', '7C', '9C', 'TH', 'QC']
+cartalata
+-------------------·
+hand1: ['5D', '6C', '8H', 'TS', 'QC']
+hand2: ['4S', '5C', '5H', '9H', 'JH']
+pareja
+-------------------·
+hand1: ['2D', '7H', 'JS', 'QC', 'AS']
+hand2: ['2H', '4C', '4H', '8S', '8D']
+doblepareja
+-------------------·
+hand1: ['3D', '6S', 'JS', 'KD', 'AC']
+hand2: ['3C', '4S', '7H', 'TH', 'KC']
+cartalata
+-------------------·
+hand1: ['5S', '6S', 'QH', 'QS', 'KH']
+hand2: ['3C', '3S', '3H', '4H', 'QD']
+trio
+-------------------·
+hand1: ['4H', '7H', '8C', 'KH', 'AS']
+hand2: ['3D', '5S', '6S', '9C', 'TS']
+cartalata
+-------------------·
+hand1: ['3H', '5S', '7C', '9C', 'QD']
+hand2: ['2C', '3D', '5H', 'AD', 'AC']
+pareja
+-------------------·
+hand1: ['2D', '4C', 'TD', 'TS', 'JH']
+hand2: ['3H', '3S', '7S', 'KH', 'AD']
+pareja
+-------------------·
+hand1: ['4C', '4D', '5H', '6S', 'AS']
+hand2: ['2D', '3C', '6H', 'JC', 'KD']
+pareja
+-------------------·
+hand1: ['2D', '3H', '6S', '8C', 'TH']
+hand2: ['4S', '5H', 'QH', 'AH', 'AD']
+pareja
+-------------------·
+hand1: ['2S', '7C', '7H', '9H', 'KC']
+hand2: ['3H', '5C', '5S', '6D', 'JC']
+pareja
+-------------------·
+hand1: ['3C', '4H', '9C', 'TC', 'QD']
+hand2: ['5S', '6D', '9H', 'TD', 'JH']
+cartalata
+-------------------·
+hand1: ['5C', '5D', '6S', '6C', '7C']
+hand2: ['4S', '6H', '7H', '9H', 'AH']
+doblepareja
+-------------------·
+hand1: ['2H', '2C', '7D', 'KC', 'AD']
+hand2: ['2S', '3S', '4C', '7H', '9S']
+cartalata
+-------------------·
+hand1: ['3S', '4C', '6S', '8S', 'TH']
+hand2: ['TD', 'JH', 'KS', 'AD', 'AS']
+pareja
+-------------------·
+hand1: ['4S', '4D', '5C', 'TD', 'AD']
+hand2: ['5D', '6S', '7D', '9C', 'TC']
+pareja
+-------------------·
+hand1: ['3S', '4D', '4S', '5S', '8H']
+hand2: ['3H', '3D', '5C', '6H', 'AC']
+pareja
+-------------------·
+hand1: ['3C', '4S', '9H', 'QS', 'AC']
+hand2: ['4D', '5H', '8S', '9D', 'QH']
+cartalata
+-------------------·
+hand1: ['5H', '6C', 'TS', 'JC', 'AC']
+hand2: ['7C', '8C', '9C', 'JD', 'QD']
+cartalata
+-------------------·
+hand1: ['2D', '8S', '8H', '9C', 'JD']
+hand2: ['3C', '6H', '8D', 'QC', 'QH']
+pareja
+-------------------·
+hand1: ['2H', '5H', '6H', 'JS', 'KS']
+hand2: ['3H', '6D', '7C', 'QH', 'QS']
+pareja
+-------------------·
+hand1: ['3H', '4S', '7H', 'TC', 'QC']
+hand2: ['2H', '3S', '8C', 'JS', 'KH']
+cartalata
+-------------------·
+hand1: ['4C', '5S', '8H', '9H', 'AH']
+hand2: ['3H', '7S', 'JD', 'JC', 'AC']
+pareja
+-------------------·
+hand1: ['2D', '3C', '4C', '5S', '6C']
+hand2: ['3S', '3D', '4S', 'JD', 'QS']
+pareja
+-------------------·
+hand1: ['2D', '5H', 'TC', 'KS', 'AH']
+hand2: ['6D', '6H', '7H', '8C', 'AD']
+pareja
+-------------------·
+hand1: ['3C', '6C', '7S', '7C', 'JD']
+hand2: ['6D', '8H', 'KS', 'KH', 'AH']
+pareja
+-------------------·
+hand1: ['3H', '7D', '8H', '8S', 'AH']
+hand2: ['2D', '5H', '7H', '9D', 'QS']
+pareja
+-------------------·
+hand1: ['4H', '7S', '8S', 'JD', 'AC']
+hand2: ['9S', '9D', 'QH', 'KS', 'AS']
+pareja
+-------------------·
+hand1: ['2C', '5S', '7S', '8S', 'JH']
+hand2: ['4C', 'JC', 'QS', 'KD', 'AH']
+cartalata
+-------------------·
+hand1: ['2S', '4H', '8D', '9H', 'AH']
+hand2: ['6H', 'TS', 'TD', 'JD', 'QH']
+pareja
+-------------------·
+hand1: ['3H', '4H', '6D', 'JC', 'QS']
+hand2: ['7S', '8S', '8D', '9C', '9D']
+doblepareja
+-------------------·
+hand1: ['4S', '4C', '5H', '9S', 'TD']
+hand2: ['3H', '3D', '7H', '8C', '8D']
+doblepareja
+-------------------·
+hand1: ['2C', '2S', '3S', 'QS', 'KH']
+hand2: ['3C', '4S', '7S', 'TD', 'QD']
+cartalata
+-------------------·
+hand1: ['4D', '5S', '7C', 'TD', 'KH']
+hand2: ['4C', '6C', '7H', 'AC', 'AS']
+pareja
+-------------------·
+hand1: ['2S', '5H', '6D', '9H', 'JD']
+hand2: ['2C', '2H', '8S', 'TD', 'QS']
+cartalata
+-------------------·
+hand1: ['2S', '6H', '7S', '9H', 'TS']
+hand2: ['4H', '4C', '5D', '5S', 'JC']
+doblepareja
+-------------------·
+hand1: ['2C', '3S', '4H', '5H', '7D']
+hand2: ['6D', '8H', 'JC', 'JS', 'QH']
+pareja
+-------------------·
+hand1: ['3S', '4C', '7C', 'QH', 'QD']
+hand2: ['5S', '8S', 'TH', 'TS', 'AD']
+pareja
+-------------------·
+hand1: ['2S', '9H', 'TC', 'TD', 'JC']
+hand2: ['3S', '3D', '7D', 'TH', 'QH']
+pareja
+-------------------·
+hand1: ['4C', '5C', '7D', '8S', 'JH']
+hand2: ['3S', '3H', '6S', '8H', 'KC']
+pareja
+-------------------·
+hand1: ['3H', 'TC', 'JC', 'QH', 'KH']
+hand2: ['2C', '5H', '6H', 'TH', 'AC']
+cartalata
+-------------------·
+hand1: ['2H', '2C', '9D', 'QS', 'AS']
+hand2: ['2S', '6S', '6C', '8C', '8S']
+doblepareja
+-------------------·
+hand1: ['4H', '7D', '9H', 'TH', 'QC']
+hand2: ['3C', '7S', 'QS', 'KD', 'AC']
+cartalata
+-------------------·
+hand1: ['4D', '5S', '6S', '8H', 'JH']
+hand2: ['3S', '9S', 'QC', 'KS', 'AS']
+cartalata
+-------------------·
+hand1: ['2D', '6S', '7S', 'TC', 'JD']
+hand2: ['3H', '7D', '9H', 'KC', 'KD']
+pareja
+-------------------·
+hand1: ['2H', '4D', '4S', '7C', 'KH']
+hand2: ['3H', '7D', 'JS', 'QD', 'KC']
+pareja
+-------------------·
+hand1: ['3C', '4C', '9D', 'JC', 'AS']
+hand2: ['4D', '6C', '8H', 'JS', 'QD']
+cartalata
+-------------------·
+hand1: ['3S', '4C', '6C', 'JS', 'AH']
+hand2: ['3D', '6D', '9C', '9H', 'JH']
+pareja
+-------------------·
+hand1: ['2D', '5S', '7H', '8C', '9H']
+hand2: ['2S', '6H', '9C', 'TC', 'KS']
+cartalata
+-------------------·
+hand1: ['6C', '6H', '7H', '8C', 'AD']
+hand2: ['3D', '5D', 'TH', 'KH', 'AS']
+pareja
+-------------------·
+hand1: ['3S', '8C', '8S', 'TS', 'KS']
+hand2: ['4D', '4H', '5S', '6C', '9S']
+pareja
+-------------------·
+hand1: ['4S', '4H', '5C', '7D', '9H']
+hand2: ['2D', '2H', '9D', 'JH', 'KC']
+pareja
+-------------------·
+hand1: ['5C', '9D', '9H', 'TC', 'JS']
+hand2: ['5H', '6S', '7S', 'JC', 'KH']
+pareja
+-------------------·
+hand1: ['4D', '7C', '8H', '9H', 'JC']
+hand2: ['2H', 'TD', 'TC', 'JD', 'KH']
+pareja
+-------------------·
+hand1: ['2H', '2C', '6C', '8H', 'KH']
+hand2: ['5H', '6H', '9D', 'QS', 'QH']
+pareja
+-------------------·
+hand1: ['2S', '3D', '7D', 'QD', 'AC']
+hand2: ['2D', '8D', 'JC', 'JD', 'JH']
+trio
+-------------------·
+hand1: ['2H', '2D', '2C', '7H', 'JC']
+hand2: ['3C', '4H', '8D', 'TD', 'KD']
+doblepareja
+-------------------·
+hand1: ['3S', '4H', '6D', '8D', 'TS']
+hand2: ['3H', '3D', '6H', 'TD', 'TH']
+doblepareja
+-------------------·
+hand1: ['3S', 'JH', 'JC', 'QH', 'AC']
+hand2: ['2C', '7H', '8S', '9H', 'QC']
+pareja
+-------------------·
+hand1: ['4S', '7H', '8S', 'TD', 'QS']
+hand2: ['2S', '2H', '4D', '5D', '9C']
+cartalata
+-------------------·
+hand1: ['2S', '3D', '3H', 'TS', 'QC']
+hand2: ['6H', '8H', 'JC', 'KC', 'KS']
+pareja
+-------------------·
+hand1: ['5D', '7D', '8C', 'TC', 'JD']
+hand2: ['3D', '6C', '8D', '9S', 'AC']
+cartalata
+-------------------·
+hand1: ['5D', '6H', '6C', '8H', 'JH']
+hand2: ['2C', '4H', '8D', '8S', 'AD']
+pareja
+-------------------·
+hand1: ['2D', '2C', '3S', '4H', '9D']
+hand2: ['3C', '5D', 'TS', 'TC', 'AS']
+pareja
+-------------------·
+hand1: ['4D', '5H', 'TH', 'QS', 'KS']
+hand2: ['2H', '3D', '4S', '6C', 'AD']
+cartalata
+-------------------·
+hand1: ['2C', '5C', '5S', '6H', 'KC']
+hand2: ['2D', '3C', '4D', '9H', '9S']
+pareja
+-------------------·
+hand1: ['3H', '4C', 'TH', 'JD', 'QH']
+hand2: ['5S', '8S', '9H', 'AH', 'AC']
+pareja
+-------------------·
+hand1: ['2H', '6S', '7D', '9S', 'TD']
+hand2: ['4H', '4C', '8H', '9C', 'QS']
+pareja
+-------------------·
+hand1: ['3C', '4H', '5D', '6H', '8C']
+hand2: ['6S', '9C', 'QD', 'QS', 'KC']
+pareja
+-------------------·
+hand1: ['2D', '3S', '9H', 'TC', 'KD']
+hand2: ['4H', '4S', '6S', '8C', 'JS']
+pareja
+-------------------·
+hand1: ['2S', '4C', '6H', '8S', 'QS']
+hand2: ['3H', '5D', '8C', 'TH', 'KH']
+cartalata
+-------------------·
+hand1: ['2C', '3S', '5S', '7S', 'KH']
+hand2: ['6C', '7H', '8D', '9D', 'QD']
+cartalata
+-------------------·
+hand1: ['2D', '8H', 'KS', 'KH', 'AC']
+hand2: ['6C', '7H', 'TS', 'JS', 'KC']
+pareja
+-------------------·
+hand1: ['5C', '9C', 'TD', 'QC', 'KS']
+hand2: ['5H', '6C', '7C', '9S', 'AH']
+cartalata
+-------------------·
+hand1: ['3H', '4D', '4H', '5D', '6S']
+hand2: ['7C', '7S', 'TD', 'QD', 'AH']
+pareja
+-------------------·
+hand1: ['2H', '6S', '7D', 'TC', 'QC']
+hand2: ['3H', '7S', '9D', 'TS', 'AH']
+cartalata
+-------------------·
+hand1: ['5H', '9S', 'TH', 'QD', 'KS']
+hand2: ['6H', '7S', '7C', '8C', 'TD']
+pareja
+-------------------·
+hand1: ['2D', '4D', '5C', 'TH', 'QC']
+hand2: ['4H', '7D', '9C', 'JD', 'AH']
+cartalata
+-------------------·
+hand1: ['3H', '4H', '6H', '8D', 'AH']
+hand2: ['2H', '2C', '9H', 'QC', 'QH']
+doblepareja
+-------------------·
+hand1: ['2D', '4C', '6H', 'TS', 'AD']
+hand2: ['4H', '7S', 'TH', 'TD', 'QS']
+pareja
+-------------------·
+hand1: ['2H', '3C', '3H', 'QS', 'KD']
+hand2: ['5D', '8H', 'TC', 'JD', 'QC']
+pareja
+-------------------·
+hand1: ['9S', 'TH', 'JC', 'QD', 'KS']
+hand2: ['2D', '8D', '8C', '9C', 'KD']
+straight
+-------------------·
+hand1: ['3C', '4D', '6D', 'QD', 'KD']
+hand2: ['8D', '8S', 'QC', 'AH', 'AD']
+doblepareja
+-------------------·
+hand1: ['2S', '3S', '3H', '8H', '9D']
+hand2: ['4C', '6H', '7C', 'KS', 'KC']
+pareja
+-------------------·
+hand1: ['3D', '5C', '7D', '9S', 'TH']
+hand2: ['2C', '4D', '6H', '7S', 'AC']
+cartalata
+-------------------·
+hand1: ['2D', '3D', '4D', '5C', 'JD']
+hand2: ['4C', '5H', '6D', '9H', 'KH']
+cartalata
+-------------------·
+hand1: ['2H', '6C', '7H', 'TD', 'AS']
+hand2: ['3D', '4C', '4S', 'QD', 'KS']
+pareja
+-------------------·
+hand1: ['3C', '7C', 'JC', 'JD', 'AC']
+hand2: ['5D', '8H', '9S', 'JS', 'QC']
+pareja
+-------------------·
+hand1: ['2H', '5S', '6S', 'JD', 'AS']
+hand2: ['3D', '5H', '7D', '8C', 'JH']
+cartalata
+-------------------·
+hand1: ['5S', '8D', '8S', '9S', 'TC']
+hand2: ['3H', '5H', '7S', 'JC', 'AS']
+pareja
+-------------------·
+hand1: ['3D', '4H', '5C', '7D', 'TD']
+hand2: ['4D', '5D', '7H', '8D', 'JS']
+cartalata
+-------------------·
+hand1: ['2S', '9C', 'TD', 'QS', 'KS']
+hand2: ['2H', '4H', '5C', '8S', 'AS']
+cartalata
+-------------------·
+hand1: ['3H', '4H', '7S', '7D', 'TH']
+hand2: ['2S', '5D', 'JD', 'KD', 'KC']
+pareja
+-------------------·
+hand1: ['4S', '4C', '7H', '8H', 'JD']
+hand2: ['4H', '5S', '6H', 'JS', 'QH']
+pareja
+-------------------·
+hand1: ['2C', '3H', '5S', '8C', 'QS']
+hand2: ['2S', '6C', 'QC', 'QD', 'AD']
+pareja
+-------------------·
+hand1: ['3D', '4H', '8C', 'TC', 'JD']
+hand2: ['2H', '2S', '5S', 'AD', 'AC']
+doblepareja
+-------------------·
+hand1: ['2C', '2D', '5D', 'JS', 'AD']
+hand2: ['3D', '4C', '4S', '9D', 'JH']
+pareja
+-------------------·
+hand1: ['5H', '5D', '6H', '7S', '8D']
+hand2: ['4D', '9D', 'TD', 'JD', 'KS']
+pareja
+-------------------·
+hand1: ['2S', '3D', '6D', '9C', 'AS']
+hand2: ['5S', '5C', '7D', '8H', 'JD']
+pareja
+-------------------·
+hand1: ['3S', '5H', '6S', '7C', '8S']
+hand2: ['7H', '7S', 'TC', 'JD', 'AD']
+pareja
+-------------------·
+hand1: ['2S', '4D', '9D', 'TS', 'AC']
+hand2: ['3H', '6C', '8D', 'JD', 'QD']
+cartalata
+-------------------·
+hand1: ['2C', '3C', '9S', 'KH', 'AC']
+hand2: ['3D', '5H', '5D', '6H', '8D']
+pareja
+-------------------·
+hand1: ['2D', '3D', '6S', 'KS', 'AS']
+hand2: ['2S', '4C', '7C', '7H', 'KH']
+pareja
+-------------------·
+hand1: ['2H', '3S', '5C', 'JC', 'AC']
+hand2: ['2D', '4D', '5H', '7S', 'QH']
+cartalata
+-------------------·
+hand1: ['6H', '8C', 'TS', 'JD', 'AS']
+hand2: ['2C', '5S', '5D', '8S', 'JC']
+pareja
+-------------------·
+hand1: ['6C', '7S', '7H', 'QH', 'QC']
+hand2: ['2D', '2S', '7C', '8H', 'JD']
+doblepareja
+-------------------·
+hand1: ['2C', '2S', '2H', 'JC', 'QD']
+hand2: ['2D', '5D', '9C', 'JD', 'JH']
+doblepareja
+-------------------·
+hand1: ['5C', '7C', '7D', '8S', '9C']
+hand2: ['6D', '6C', '8D', '9S', 'JH']
+pareja
+-------------------·
+hand1: ['2C', '3S', '5H', '6S', 'AD']
+hand2: ['4C', '7S', '9D', 'KS', 'KH']
+pareja
+-------------------·
+hand1: ['2C', '5C', '6C', '7H', 'TH']
+hand2: ['3S', '8D', '9D', 'QC', 'AH']
+cartalata
+-------------------·
+hand1: ['5S', '5H', '6H', 'TC', 'KC']
+hand2: ['3C', '6D', '8S', 'TH', 'AH']
+pareja
+-------------------·
+hand1: ['4H', '9C', 'TD', 'KD', 'AD']
+hand2: ['4S', '5D', '6H', '7D', '9S']
+cartalata
+-------------------·
+hand1: ['5C', '5H', '6D', '7H', 'AS']
+hand2: ['4C', '4H', '9D', 'KD', 'KH']
+doblepareja
+-------------------·
+hand1: ['2S', '3C', '5C', '6C', 'JD']
+hand2: ['2H', '3H', '7D', '9D', 'QS']
+cartalata
+-------------------·
+hand1: ['2S', '6S', '7S', 'JS', 'AC']
+hand2: ['5C', '6H', 'QD', 'QS', 'AD']
+pareja
+-------------------·
+hand1: ['5H', '7H', 'TH', 'TC', 'QC']
+hand2: ['3S', '3D', '6D', '7C', 'KC']
+pareja
+-------------------·
+hand1: ['3D', '4H', '8H', '9S', 'QC']
+hand2: ['2C', '3S', '5C', 'JC', 'KS']
+cartalata
+-------------------·
+hand1: ['2C', '4S', '6S', '6H', '8S']
+hand2: ['3S', '3D', '3H', '9H', 'JS']
+trio
+-------------------·
+hand1: ['2D', '4S', '4D', '8C', '8H']
+hand2: ['7D', '9H', '9D', 'TS', 'AH']
+doblepareja
+-------------------·
+hand1: ['2C', '4C', '8D', '9S', '9H']
+hand2: ['3D', '5S', '6D', '7D', 'AS']
+pareja
+-------------------·
+hand1: ['3H', '4C', '6S', '7H', '8C']
+hand2: ['5H', '9D', '9C', 'JC', 'AH']
+pareja
+-------------------·
+hand1: ['2S', '5S', '7C', '8C', 'JD']
+hand2: ['3S', '3D', '4D', '6S', '7D']
+pareja
+-------------------·
+hand1: ['3C', '4S', '5D', '7D', 'KC']
+hand2: ['3D', '3H', '4H', '7H', 'JD']
+pareja
+-------------------·
+hand1: ['4H', '4D', '9C', '9H', 'TH']
+hand2: ['6D', '7S', '8S', '9S', 'QD']
+doblepareja
+-------------------·
+hand1: ['2H', '4S', '8S', 'AC', 'AD']
+hand2: ['2C', '7D', '8C', 'TC', 'AH']
+pareja
+-------------------·
+hand1: ['3C', '9H', 'TS', 'KS', 'AD']
+hand2: ['3D', '8C', '8H', 'TC', 'JD']
+pareja
+-------------------·
+hand1: ['2C', '3C', '7D', '8D', 'QC']
+hand2: ['6C', '7C', '9H', '9C', 'JD']
+pareja
+-------------------·
+hand1: ['5D', '6S', 'JS', 'JH', 'AH']
+hand2: ['2C', 'TD', 'JD', 'QC', 'AS']
+pareja
+-------------------·
+hand1: ['2H', '2D', '5D', '9H', 'KD']
+hand2: ['3S', '7D', 'TC', 'TS', 'AH']
+pareja
+-------------------·
+hand1: ['5D', '8H', 'TD', 'AS', 'AH']
+hand2: ['5H', '6S', 'TC', 'QC', 'AC']
+pareja
+-------------------·
+hand1: ['4S', '4D', '7H', '8D', 'KS']
+hand2: ['2H', '3H', '6H', '9C', 'TC']
+pareja
+-------------------·
+hand1: ['3H', '4S', 'QD', 'QH', 'KD']
+hand2: ['3D', '7S', '8H', '8C', 'TD']
+pareja
+-------------------·
+hand1: ['8S', 'TC', 'JD', 'JS', 'AH']
+hand2: ['2D', '4D', 'QS', 'KH', 'KS']
+pareja
+-------------------·
+hand1: ['3C', 'JC', 'JS', 'KD', 'AD']
+hand2: ['2C', '4S', '9H', 'TH', 'KH']
+pareja
+-------------------·
+hand1: ['5S', '9S', 'JS', 'QC', 'KS']
+hand2: ['2S', '7C', 'JD', 'QD', 'AS']
+cartalata
+-------------------·
+hand1: ['2D', '3S', '5S', 'QS', 'KC']
+hand2: ['5D', '8H', '9H', 'KS', 'AC']
+cartalata
+-------------------·
+hand1: ['2C', '6H', '9C', 'TC', 'AD']
+hand2: ['5S', '6D', '6C', '7C', 'JD']
+pareja
+-------------------·
+hand1: ['2C', 'TD', 'QS', 'QD', 'KH']
+hand2: ['2S', '3H', '8S', 'QC', 'AH']
+pareja
+-------------------·
+hand1: ['9D', '9H', 'TC', 'JH', 'QH']
+hand2: ['2S', '3C', '5C', '7H', 'JS']
+pareja
+-------------------·
+hand1: ['2S', '3S', '3D', '4S', '6C']
+hand2: ['2D', '2C', '5D', 'TH', 'QD']
+pareja
+-------------------·
+hand1: ['2D', '2S', '6H', '6D', 'JC']
+hand2: ['4H', '7H', 'QH', 'KH', 'AS']
+doblepareja
+-------------------·
+hand1: ['5H', '6S', 'TC', 'KS', 'AD']
+hand2: ['4S', '4H', '7C', 'TS', 'AC']
+pareja
+-------------------·
+hand1: ['3C', '4H', '8C', 'QS', 'AD']
+hand2: ['2H', '2D', '4D', '9D', 'KS']
+cartalata
+-------------------·
+hand1: ['4S', '6C', '6D', '9D', '9C']
+hand2: ['3H', '7H', '8D', 'KD', 'AC']
+doblepareja
+-------------------·
+hand1: ['6C', 'TS', 'JC', 'JD', 'AH']
+hand2: ['3S', '5D', '6D', 'QD', 'AD']
+pareja
+-------------------·
+hand1: ['3S', '7S', 'JC', 'JH', 'JD']
+hand2: ['3H', '4S', '8S', 'JS', 'QC']
+trio
+-------------------·
+hand1: ['2C', '5C', 'TH', 'JD', 'AD']
+hand2: ['2H', '7H', '7S', '9S', 'JS']
+pareja
+-------------------·
+hand1: ['3S', '4D', '8D', 'JH', 'QC']
+hand2: ['2C', '6H', 'JD', 'KC', 'AS']
+cartalata
+-------------------·
+hand1: ['2C', '5H', '5S', 'KD', 'AC']
+hand2: ['2D', '7H', 'JH', 'QD', 'AH']
+pareja
+-------------------·
+hand1: ['8D', '8S', 'TC', 'JC', 'QH']
+hand2: ['5H', '5C', '6C', '8C', 'AH']
+pareja
+-------------------·
+hand1: ['3H', '8S', 'JS', 'JH', 'QD']
+hand2: ['3C', '3S', '4H', '5C', '6D']
+pareja
+-------------------·
+hand1: ['4S', '4C', '5H', '6D', 'AH']
+hand2: ['3H', '5S', '7C', '8D', 'JD']
+pareja
+-------------------·
+hand1: ['2H', '3H', '8H', 'JS', 'AH']
+hand2: ['3C', '4H', '7D', 'QC', 'KD']
+cartalata
+-------------------·
+hand1: ['2H', '5H', '6S', '8H', 'KD']
+hand2: ['2D', '3C', '7S', '8S', 'QD']
+cartalata
+-------------------·
+hand1: ['2S', '7S', 'QC', 'KC', 'AH']
+hand2: ['4C', '6D', '8D', 'TC', 'QS']
+cartalata
+-------------------·
+hand1: ['2C', '3S', '5S', '9H', 'QD']
+hand2: ['2H', '6C', '7S', '7C', '9D']
+pareja
+-------------------·
+hand1: ['3C', '5C', '5S', '6C', 'JD']
+hand2: ['3S', '5D', 'TS', 'JC', 'KS']
+pareja
+-------------------·
+hand1: ['2S', '5S', '6S', '7C', 'KS']
+hand2: ['2D', '2H', '5H', 'TC', 'QS']
+cartalata
+-------------------·
+hand1: ['5H', '6S', '7H', 'TS', 'AS']
+hand2: ['2H', '3C', '9S', '9D', 'KD']
+pareja
+-------------------·
+hand1: ['3S', '4S', '4H', 'JS', 'QS']
+hand2: ['2S', '6S', '7C', '9D', 'AC']
+pareja
+-------------------·
+hand1: ['2H', '5H', '7C', '8C', 'JH']
+hand2: ['5D', 'QH', 'QS', 'QC', 'KH']
+trio
+-------------------·
+hand1: ['3S', '3H', '7C', 'TD', 'KC']
+hand2: ['5H', '8D', '8S', '8C', 'KH']
+trio
+-------------------·
+hand1: ['3C', '4H', 'TS', 'JD', 'KH']
+hand2: ['5S', '7H', 'JS', 'QC', 'AS']
+cartalata
+-------------------·
+hand1: ['2C', '4D', '8D', '9D', 'AH']
+hand2: ['2D', '6H', '6C', '6S', 'KC']
+trio
+-------------------·
+hand1: ['2S', '3S', '6H', '7H', '9D']
+hand2: ['3D', '4D', '8H', 'KH', 'KD']
+pareja
+-------------------·
+hand1: ['9C', 'TC', 'JH', 'KH', 'AC']
+hand2: ['3S', '4D', '5H', 'TD', 'JD']
+cartalata
+-------------------·
+hand1: ['4H', '4C', '7S', '9D', 'AS']
+hand2: ['2S', '7D', '9S', 'QS', 'KH']
+pareja
+-------------------·
+hand1: ['3S', '8D', '8S', '8C', 'KS']
+hand2: ['2H', '5C', '5D', 'JC', 'KH']
+trio
+-------------------·
+hand1: ['2C', '4D', '8S', 'QH', 'KC']
+hand2: ['6H', '9D', 'JS', 'QC', 'AC']
+cartalata
+-------------------·
+hand1: ['7C', '8S', '8C', 'JS', 'JD']
+hand2: ['4C', '4S', '6S', '9C', 'AC']
+doblepareja
+-------------------·
+hand1: ['2C', '5D', '7D', 'JC', 'QH']
+hand2: ['2D', '4C', '8S', 'JS', 'JH']
+pareja
+-------------------·
+hand1: ['4C', '7S', 'TS', 'JS', 'JH']
+hand2: ['4S', '5H', 'QD', 'KC', 'KH']
+pareja
+-------------------·
+hand1: ['2D', '6S', '8C', '8D', 'QD']
+hand2: ['5S', '9D', 'TD', 'QH', 'AC']
+pareja
+-------------------·
+hand1: ['3D', '3C', 'JS', 'QH', 'QC']
+hand2: ['4H', '5C', '7H', '8S', 'KH']
+doblepareja
+-------------------·
+hand1: ['2C', '5S', '7C', '8S', 'JC']
+hand2: ['2H', '3H', '5D', 'QC', 'KC']
+cartalata
+-------------------·
+hand1: ['4H', '5S', '6H', '8D', 'KD']
+hand2: ['3D', '6D', 'QD', 'QH', 'AH']
+pareja
+-------------------·
+hand1: ['2S', '4D', '6C', '7S', 'KS']
+hand2: ['5H', 'TS', 'JD', 'QS', 'AC']
+cartalata
+-------------------·
+hand1: ['2D', '5D', '7C', 'TC', 'QS']
+hand2: ['6C', 'JS', 'QC', 'KC', 'AC']
+cartalata
+-------------------·
+hand1: ['2C', '3H', '4D', 'TS', 'KS']
+hand2: ['4H', '7S', '8S', '9S', 'AD']
+cartalata
+-------------------·
+hand1: ['4H', '5H', '9H', 'QD', 'QH']
+hand2: ['3S', '4D', 'JC', 'KH', 'AD']
+pareja
+-------------------·
+hand1: ['4D', '6D', '8D', 'KC', 'AC']
+hand2: ['2D', '2C', '4C', 'JD', 'KH']
+cartalata
+-------------------·
+hand1: ['2C', '2D', '3H', '9H', 'AH']
+hand2: ['6D', '7D', '9C', 'TC', 'KS']
+cartalata
+-------------------·
+hand1: ['3H', '5C', '7C', '8C', 'KD']
+hand2: ['2S', '4S', '5H', 'AS', 'AH']
+pareja
+-------------------·
+hand1: ['3H', '4H', 'TH', 'JD', 'KD']
+hand2: ['3S', '5C', 'TC', 'KH', 'AC']
+cartalata
+-------------------·
+hand1: ['6D', '7H', '7S', 'QC', 'AH']
+hand2: ['2D', '6H', 'TD', 'JD', 'AS']
+pareja
+-------------------·
+hand1: ['5D', '7H', '9S', 'TC', 'JH']
+hand2: ['5S', '7D', 'JC', 'KH', 'AS']
+cartalata
+-------------------·
+hand1: ['2H', '6H', '8C', 'TH', 'AD']
+hand2: ['6S', '6C', '9H', 'QD', 'KD']
+pareja
+-------------------·
+hand1: ['3S', '4D', '9D', 'QH', 'KC']
+hand2: ['2C', '4H', '9H', 'JS', 'JH']
+pareja
+-------------------·
+hand1: ['4H', '7H', 'TC', 'JC', 'KH']
+hand2: ['3H', '7D', '7S', '9S', 'QS']
+pareja
+-------------------·
+hand1: ['6C', '7D', '7H', 'JH', 'AD']
+hand2: ['3S', '3H', '4H', '4D', 'QH']
+doblepareja
+-------------------·
+hand1: ['2H', '5C', '6C', 'JD', 'AS']
+hand2: ['3C', '4D', 'TC', 'JH', 'QC']
+cartalata
+-------------------·
+hand1: ['3H', '4C', '6H', 'JD', 'AC']
+hand2: ['7D', '7H', '9H', 'JC', 'AD']
+pareja
+-------------------·
+hand1: ['2C', '4H', '8C', 'TC', 'TS']
+hand2: ['2H', '6S', '9S', 'JD', 'KS']
+pareja
+-------------------·
+hand1: ['3H', '4C', '9S', 'QS', 'QC']
+hand2: ['6D', '9H', '9D', '9C', 'KC']
+trio
+-------------------·
+hand1: ['2C', '5C', '8C', 'QH', 'AD']
+hand2: ['8D', '8H', 'TH', 'JC', 'QD']
+pareja
+-------------------·
+hand1: ['2C', '2S', '9C', 'QC', 'QD']
+hand2: ['3S', '4D', '8D', 'JH', 'QS']
+doblepareja
+-------------------·
+hand1: ['2C', '3S', '7S', '7C', '9D']
+hand2: ['3C', '9H', 'TD', 'TC', 'JC']
+pareja
+-------------------·
+hand1: ['3C', '4C', '5C', '8H', 'TS']
+hand2: ['2C', '4H', '6S', '7C', '8D']
+cartalata
+-------------------·
+hand1: ['2H', '4H', '7H', 'TC', 'KS']
+hand2: ['2C', '3S', 'QS', 'AS', 'AH']
+pareja
+-------------------·
+hand1: ['2D', '2H', '2C', '4S', '8C']
+hand2: ['3S', '4C', '5S', '6S', '7D']
+straight
+-------------------·
+hand1: ['3C', '5D', 'TH', 'TD', 'QC']
+hand2: ['QS', 'KD', 'KC', 'KS', 'AS']
+trio
+-------------------·
+hand1: ['4D', '9H', 'KD', 'KS', 'AH']
+hand2: ['4C', '5C', '6H', '7S', 'JC']
+pareja
+-------------------·
+hand1: ['4H', '5C', 'TC', 'QS', 'KC']
+hand2: ['2H', '9S', 'JC', 'QH', 'AH']
+cartalata
+-------------------·
+hand1: ['3H', '3C', '4S', '5H', '9H']
+hand2: ['2H', '8H', 'JH', 'QD', 'QC']
+pareja
+-------------------·
+hand1: ['2C', '3D', '5D', '7H', 'AS']
+hand2: ['4C', '6H', '6S', '7D', 'JH']
+pareja
+-------------------·
+hand1: ['9C', '9H', 'JD', 'JS', 'AH']
+hand2: ['3H', '8S', '8H', 'QH', 'KS']
+doblepareja
+-------------------·
+hand1: ['3S', '4D', 'TS', 'QC', 'AC']
+hand2: ['3D', '8S', '9H', 'AD', 'AH']
+pareja
+-------------------·
+hand1: ['3H', '7H', '9C', '9S', 'QS']
+hand2: ['5H', 'JH', 'JS', 'AH', 'AC']
+doblepareja
+-------------------·
+hand1: ['2H', '3C', '8D', 'JD', 'AC']
+hand2: ['4D', '5S', '7H', '8H', '9C']
+cartalata
+-------------------·
+hand1: ['6C', '7C', '9H', 'JH', 'JS']
+hand2: ['4H', '7H', '8C', '9S', '9D']
+pareja
+-------------------·
+hand1: ['2D', '4D', '6H', '9S', 'AS']
+hand2: ['9H', 'JS', 'JH', 'QD', 'AD']
+pareja
+-------------------·
+hand1: ['6H', '7S', 'JH', 'KH', 'AH']
+hand2: ['2C', '5S', '6S', '7H', 'TD']
+cartalata
+-------------------·
+hand1: ['5H', '5S', '6S', '8H', 'JH']
+hand2: ['4C', '9D', '9S', 'TC', 'QC']
+pareja
+-------------------·
+hand1: ['2C', '3H', '5H', '7D', 'KD']
+hand2: ['4D', '7H', 'JS', 'QD', 'AS']
+cartalata
+-------------------·
+hand1: ['6C', '8H', 'TS', 'TH', 'QH']
+hand2: ['3C', '3H', '5H', '9C', '9D']
+doblepareja
+-------------------·
+hand1: ['3H', '5D', 'JS', 'KH', 'AD']
+hand2: ['5C', '9S', 'KC', 'AS', 'AC']
+pareja
+-------------------·
+hand1: ['2C', '8C', 'JC', 'QS', 'KH']
+hand2: ['2D', '6D', 'TC', 'KC', 'AH']
+cartalata
+-------------------·
+hand1: ['2S', '3H', '4D', '7C', '9D']
+hand2: ['6D', '7D', '8D', 'KH', 'KS']
+pareja
+-------------------·
+hand1: ['2S', '9H', 'TC', 'JH', 'AC']
+hand2: ['3H', '3S', '5S', '8H', 'QC']
+pareja
+-------------------·
+hand1: ['3S', '4C', '8H', 'KD', 'AS']
+hand2: ['3H', '7C', 'TS', 'JH', 'QH']
+cartalata
+-------------------·
+hand1: ['6D', '7S', '7H', '9D', 'JH']
+hand2: ['3D', '3S', '4C', '6C', 'AS']
+pareja
+-------------------·
+hand1: ['2H', '2C', '4S', '4C', '8S']
+hand2: ['5H', '8C', 'QC', 'QD', 'KC']
+doblepareja
+-------------------·
+hand1: ['3H', '3S', '6C', 'QS', 'QC']
+hand2: ['2D', '2C', '5D', '6S', '9D']
+doblepareja
+-------------------·
+hand1: ['2H', '2S', '3H', '8D', 'JH']
+hand2: ['2D', '5C', '6C', '7S', 'AD']
+cartalata
+-------------------·
+hand1: ['5D', '8S', '9H', 'JS', 'QH']
+hand2: ['2H', '6S', '7S', 'TS', 'AD']
+cartalata
+-------------------·
+hand1: ['5H', '6D', '7H', '9S', 'QC']
+hand2: ['4H', '5C', '7D', 'JD', 'KC']
+cartalata
+-------------------·
+hand1: ['4D', '5S', '9H', '9C', 'QC']
+hand2: ['2S', '4C', '6S', '7C', 'KS']
+pareja
+-------------------·
+hand1: ['3S', '4H', '7C', '8D', '9H']
+hand2: ['5C', '6H', '7S', '8H', 'JS']
+cartalata
+-------------------·
+hand1: ['2D', '4H', '6H', 'TD', 'JS']
+hand2: ['4D', '5H', 'TH', 'JC', 'KC']
+cartalata
+-------------------·
+hand1: ['3H', '7C', '8D', 'TH', 'AC']
+hand2: ['2D', '4C', '4D', '9S', 'KC']
+pareja
+-------------------·
+hand1: ['3D', '7S', '9C', 'QS', 'KD']
+hand2: ['4C', '4H', 'TS', 'KS', 'AD']
+pareja
+-------------------·
+hand1: ['2S', '7D', '8H', '9C', 'QH']
+hand2: ['4C', '5D', '7H', 'KS', 'KD']
+pareja
+-------------------·
+hand1: ['2S', '2H', '6S', '9C', 'JC']
+hand2: ['5C', '6C', 'TC', 'JH', 'QC']
+cartalata
+-------------------·
+hand1: ['7S', '8H', '8S', 'KC', 'AC']
+hand2: ['3D', '6H', '6S', 'JC', 'QS']
+pareja
+-------------------·
+hand1: ['2D', '4S', '8C', 'JS', 'JH']
+hand2: ['5D', '6H', '6D', '8H', 'AD']
+pareja
+-------------------·
+hand1: ['2S', '4H', '6H', '7D', '9H']
+hand2: ['5S', '7C', '8H', 'AS', 'AC']
+pareja
+-------------------·
+hand1: ['3C', '4S', '5H', '6D', 'JS']
+hand2: ['2S', '2C', '6S', '9C', 'QH']
+cartalata
+-------------------·
+hand1: ['3D', '4C', '5S', '6S', '9S']
+hand2: ['8D', '8S', 'TC', 'QS', 'QD']
+doblepareja
+-------------------·
+hand1: ['3D', '5S', '9C', '9H', 'AH']
+hand2: ['2C', '3S', '7D', 'JC', 'AD']
+pareja
+-------------------·
+hand1: ['3C', '6S', '7H', 'TC', 'AS']
+hand2: ['6D', '7S', '9H', 'KH', 'KC']
+pareja
+-------------------·
+hand1: ['3S', '5H', '6S', '8H', 'TC']
+hand2: ['2S', '7D', '8C', 'JH', 'AC']
+cartalata
+-------------------·
+hand1: ['3S', '9D', '9C', 'JC', 'QD']
+hand2: ['4D', '5D', '8C', '8H', 'KS']
+pareja
+-------------------·
+hand1: ['6D', '9D', 'JS', 'JD', 'AH']
+hand2: ['3H', '8C', '8H', '9H', '9S']
+doblepareja
+-------------------·
+hand1: ['2D', '4C', '4D', '6S', '8S']
+hand2: ['4S', '9H', 'TC', 'AD', 'AH']
+pareja
+-------------------·
+hand1: ['TS', 'TH', 'QC', 'KC', 'AC']
+hand2: ['2H', '4H', '6D', '7S', '8C']
+pareja
+-------------------·
+hand1: ['3C', '5S', '9D', 'JS', 'QD']
+hand2: ['2H', '9H', 'TS', 'JC', 'AH']
+cartalata
+-------------------·
+hand1: ['3H', '4D', '5D', '9C', 'QH']
+hand2: ['3S', '4S', '5H', '7D', 'JC']
+cartalata
+-------------------·
+hand1: ['2H', '3H', '7C', '8S', 'TH']
+hand2: ['8D', 'TS', 'JD', 'JS', 'AC']
+pareja
+-------------------·
+hand1: ['2H', '9C', 'TD', 'JD', 'KC']
+hand2: ['2S', '2C', '5S', '8C', 'AD']
+cartalata
+-------------------·
+hand1: ['3D', '4D', '5H', '7C', 'KD']
+hand2: ['6H', '7D', 'TC', 'QH', 'QD']
+pareja
+-------------------·
+hand1: ['2C', '5S', '7H', 'KC', 'KD']
+hand2: ['6H', '7S', 'QC', 'QH', 'AH']
+pareja
+-------------------·
+hand1: ['2C', '5C', '5H', '6H', 'AC']
+hand2: ['2D', '2S', '7C', '9C', 'TD']
+pareja
+-------------------·
+hand1: ['3D', '4D', '7C', '9D', 'AH']
+hand2: ['4H', '4C', '8C', 'JD', 'KS']
+pareja
+-------------------·
+hand1: ['3C', '8H', 'TH', 'JS', 'QH']
+hand2: ['3D', '4C', 'QS', 'QC', 'AS']
+pareja
+-------------------·
+hand1: ['4D', '5H', '6D', '7S', 'JH']
+hand2: ['3C', '6H', '7D', 'JS', 'KH']
+cartalata
+-------------------·
+hand1: ['2H', '2C', '7D', '8S', 'QD']
+hand2: ['2S', '5H', '7C', '8C', 'JC']
+cartalata
+-------------------·
+hand1: ['2H', '8S', '9D', 'TC', 'QH']
+hand2: ['6S', '7C', '8D', 'QD', 'AD']
+cartalata
+-------------------·
+hand1: ['2H', '3S', '7C', '9H', 'AD']
+hand2: ['2D', '4C', '9S', 'TS', 'JD']
+cartalata
+-------------------·
+hand1: ['2C', '3S', '4H', 'QC', 'AS']
+hand2: ['7S', '8H', '8S', 'TD', 'TC']
+doblepareja
+-------------------·
+hand1: ['3S', '4D', 'TH', 'TD', 'JH']
+hand2: ['2C', '4H', '5S', '5D', 'QS']
+pareja
+-------------------·
+hand1: ['6D', '8C', 'TC', 'QD', 'QH']
+hand2: ['4S', '4H', '9S', '9D', 'QC']
+doblepareja
+-------------------·
+hand1: ['6H', '8C', '9D', 'JS', 'JD']
+hand2: ['3H', '6S', 'TD', 'QC', 'AD']
+pareja
+-------------------·
+hand1: ['3D', '7C', '8S', 'TD', 'KC']
+hand2: ['3S', '4S', '7D', '8D', '9H']
+cartalata
+-------------------·
+hand1: ['3D', '4S', '6C', '9D', 'KD']
+hand2: ['5S', 'TC', 'KC', 'KS', 'AC']
+pareja
+-------------------·
+hand1: ['3D', '6S', '7C', 'JS', 'QH']
+hand2: ['2D', '6H', '6D', '8C', 'KD']
+pareja
+-------------------·
+hand1: ['2S', '4H', '5S', '8S', 'JD']
+hand2: ['2D', '5C', '6S', 'TS', 'AC']
+cartalata
+-------------------·
+hand1: ['3C', '4S', '5H', '5S', '8C']
+hand2: ['3D', '3H', '7C', '8D', 'AS']
+pareja
+-------------------·
+hand1: ['3H', '7C', 'TS', 'AS', 'AD']
+hand2: ['6C', '6H', '7D', 'JC', 'QS']
+pareja
+-------------------·
+hand1: ['3S', '4C', '9S', 'QH', 'AC']
+hand2: ['4H', '5H', '5D', '9H', 'TS']
+pareja
+-------------------·
+hand1: ['5C', '6C', '7H', '7S', 'TD']
+hand2: ['2H', '2S', '5S', 'JD', 'AD']
+pareja
+-------------------·
+hand1: ['3S', '6C', '7D', 'JD', 'KC']
+hand2: ['8D', '8S', 'TS', 'QS', 'KH']
+pareja
+-------------------·
+hand1: ['6C', '8S', '8D', 'TH', 'QS']
+hand2: ['2C', '8H', '9S', 'AC', 'AH']
+pareja
+-------------------·
+hand1: ['7H', '8S', 'TD', 'QH', 'KH']
+hand2: ['3D', '4D', 'JD', 'AH', 'AS']
+pareja
+-------------------·
+hand1: ['2H', '2S', '3D', 'TS', 'JC']
+hand2: ['6C', 'JH', 'JS', 'QC', 'KH']
+pareja
+-------------------·
+hand1: ['2D', '6H', '7S', 'TH', 'KC']
+hand2: ['2S', '8C', '9D', 'TC', 'QS']
+cartalata
+-------------------·
+hand1: ['3C', '6S', '8H', '9D', 'KH']
+hand2: ['2C', '2H', '5D', '6D', 'TH']
+cartalata
+-------------------·
+hand1: ['4D', '6H', '7D', 'TC', 'AD']
+hand2: ['7S', '8S', '9H', 'TS', 'TD']
+pareja
+-------------------·
+hand1: ['2H', '6D', 'JS', 'JD', 'JC']
+hand2: ['3D', '6C', '8D', 'KH', 'AC']
+trio
+-------------------·
+hand1: ['4H', '5D', '9S', 'JD', 'KH']
+hand2: ['3H', '4C', '5C', '7S', 'QS']
+cartalata
+-------------------·
+hand1: ['3S', '3C', '4H', '5D', 'JD']
+hand2: ['4D', '7S', 'QH', 'QS', 'KH']
+pareja
+-------------------·
+hand1: ['8S', 'TS', 'JD', 'QD', 'AH']
+hand2: ['2C', '3S', '4C', '5S', '6H']
+cartalata
+-------------------·
+hand1: ['3D', '8D', 'JD', 'QS', 'AS']
+hand2: ['6S', '7C', 'TH', 'QC', 'KS']
+cartalata
+-------------------·
+hand1: ['2H', '7S', '7H', '8C', 'QC']
+hand2: ['2D', '6D', 'TH', 'KH', 'AC']
+pareja
+-------------------·
+hand1: ['5S', '6C', '7H', '7D', 'KH']
+hand2: ['3D', '5C', '7S', '8C', 'AH']
+pareja
+-------------------·
+hand1: ['3C', '6C', '7D', 'KD', 'AD']
+hand2: ['2D', '4D', '4S', '8C', 'KS']
+pareja
+-------------------·
+hand1: ['2D', '2S', '5S', '7C', '8D']
+hand2: ['2C', '9D', 'TD', 'AH', 'AD']
+pareja
+-------------------·
+hand1: ['3C', '4S', 'JH', 'KS', 'AD']
+hand2: ['5C', '7C', '8C', '9C', 'TH']
+cartalata
+-------------------·
+hand1: ['4D', '7C', 'TD', 'JD', 'AS']
+hand2: ['3C', '5H', '8C', '9S', 'QH']
+cartalata
+-------------------·
+hand1: ['3H', '6S', '8S', '9C', '9S']
+hand2: ['5H', 'JH', 'QD', 'KS', 'AH']
+pareja
+-------------------·
+hand1: ['2H', '4H', '5S', '9C', 'QC']
+hand2: ['7D', '8C', '9D', 'TD', 'AS']
+cartalata
+-------------------·
+hand1: ['2C', '8C', '9D', 'TC', 'KD']
+hand2: ['3D', '3C', '7S', 'QC', 'KH']
+pareja
+-------------------·
+hand1: ['4D', '4C', '5S', 'QS', 'AS']
+hand2: ['6S', '9D', 'JD', 'QH', 'KS']
+pareja
+-------------------·
+hand1: ['4C', '5H', '6D', '6C', 'AH']
+hand2: ['3D', '5S', '7D', '9H', 'TS']
+pareja
+-------------------·
+hand1: ['7C', '8D', '9C', 'JD', 'QS']
+hand2: ['3S', '6S', '6C', 'KH', 'AC']
+pareja
+-------------------·
+hand1: ['5D', '6D', '8H', '9S', 'JH']
+hand2: ['3S', '6S', '7H', 'QC', 'AS']
+cartalata
+-------------------·
+hand1: ['2H', '5C', 'JH', 'QD', 'AD']
+hand2: ['2C', '4H', 'KC', 'AH', 'AS']
+pareja
+-------------------·
+hand1: ['2C', '2D', '6H', '9C', 'JH']
+hand2: ['5D', '6D', '9H', 'JS', 'KC']
+cartalata
+-------------------·
+hand1: ['3H', '7D', '9D', 'TH', 'KD']
+hand2: ['6S', '6H', 'QC', 'AS', 'AD']
+doblepareja
+-------------------·
+hand1: ['3H', '4H', '7D', 'JD', 'KC']
+hand2: ['3C', '3D', 'TH', 'JS', 'QS']
+pareja
+-------------------·
+hand1: ['3H', '4C', '5H', '8C', 'QD']
+hand2: ['6H', '8H', 'JD', 'AS', 'AD']
+pareja
+-------------------·
+hand1: ['5D', '8S', 'TH', 'QC', 'KD']
+hand2: ['5S', '5H', '7D', 'TS', 'JS']
+pareja
+-------------------·
+hand1: ['3H', '7D', '9D', 'QS', 'KC']
+hand2: ['3C', '6D', '7S', 'TS', 'AH']
+cartalata
+-------------------·
+hand1: ['4H', '7C', '7H', 'QC', 'AH']
+hand2: ['4D', '5D', '6D', 'TH', 'AC']
+pareja
+-------------------·
+hand1: ['2S', '3C', '4H', '8H', 'KD']
+hand2: ['5H', '6C', 'TC', 'JH', 'JD']
+pareja
+-------------------·
+hand1: ['3D', '4S', '4H', '8C', 'JS']
+hand2: ['7S', 'TD', 'JH', 'QS', 'KD']
+pareja
+-------------------·
+hand1: ['4D', '7C', '7H', 'QC', 'KD']
+hand2: ['6S', 'TD', 'TC', 'KH', 'AD']
+pareja
+-------------------·
+hand1: ['3H', '4D', '5H', '9H', 'KC']
+hand2: ['3D', '6S', '6H', 'QD', 'AD']
+pareja
+-------------------·
+hand1: ['6H', '7C', 'TH', 'TS', 'QH']
+hand2: ['2C', '5S', '6S', 'TD', 'KC']
+pareja
+-------------------·
+hand1: ['4D', '5S', '7C', 'JD', 'JH']
+hand2: ['4H', '7D', 'KD', 'KH', 'AC']
+pareja
+-------------------·
+hand1: ['5C', '6C', '7D', '8D', '8H']
+hand2: ['8S', 'TH', 'JH', 'JD', 'QD']
+pareja
+-------------------·
+hand1: ['6C', '7D', '7C', '8D', '9D']
+hand2: ['5C', 'JH', 'QH', 'KD', 'AS']
+pareja
+-------------------·
+hand1: ['2C', '3C', '4C', '8C', '9S']
+hand2: ['2D', '4H', '8D', 'JH', 'KS']
+cartalata
+-------------------·
+hand1: ['6C', '7S', '8H', 'JH', 'KH']
+hand2: ['2D', '3H', '6D', '9D', 'AH']
+cartalata
+-------------------·
+hand1: ['4D', '7H', '8D', '9C', 'TC']
+hand2: ['3C', 'TD', 'TH', 'KS', 'KD']
+doblepareja
+-------------------·
+hand1: ['8D', '9H', 'JD', 'QD', 'AS']
+hand2: ['2C', '2S', '9D', '9C', 'KD']
+doblepareja
+-------------------·
+hand1: ['3H', '5C', '7H', '8D', 'KS']
+hand2: ['2D', '5H', '8C', '9H', 'QH']
+cartalata
+-------------------·
+hand1: ['2D', '6D', '6C', 'TH', 'QD']
+hand2: ['3H', '3S', '4C', 'KC', 'AD']
+pareja
+-------------------·
+hand1: ['3H', '3C', '4H', '9D', 'JS']
+hand2: ['5H', 'TC', 'JC', 'QH', 'QC']
+pareja
+-------------------·
+hand1: ['3D', '3S', '3C', '5C', '6H']
+hand2: ['2S', '5S', '7S', 'JC', 'QH']
+trio
+-------------------·
+hand1: ['4D', '5C', '5D', '8C', 'AC']
+hand2: ['2S', '3C', '3H', '4H', 'QD']
+pareja
+-------------------·
+hand1: ['2C', '9C', 'TD', 'KD', 'AH']
+hand2: ['4C', '6S', 'JS', 'QD', 'QC']
+pareja
+-------------------·
+hand1: ['3S', '4H', '8C', 'TC', 'QS']
+hand2: ['3H', '7C', 'JS', 'JC', 'AD']
+pareja
+-------------------·
+hand1: ['4D', '5H', '9C', 'JC', 'KS']
+hand2: ['8S', '9S', '9H', 'TD', 'TS']
+doblepareja
+-------------------·
+hand1: ['7D', 'TS', 'QD', 'AS', 'AC']
+hand2: ['2C', '6H', '8H', 'TD', 'AH']
+pareja
+-------------------·
+hand1: ['4S', '6S', '8C', '9H', 'AD']
+hand2: ['3C', '8D', '8S', '9D', 'KH']
+pareja
+-------------------·
+hand1: ['2D', '4D', '7S', 'QS', 'KH']
+hand2: ['3C', '4C', 'JS', 'JC', 'AD']
+pareja
+-------------------·
+hand1: ['7H', '9S', 'TD', 'QS', 'KC']
+hand2: ['5H', 'TH', 'JS', 'JH', 'AC']
+pareja
+-------------------·
+hand1: ['2S', '6D', '7C', 'QS', 'AC']
+hand2: ['5S', '6S', 'KS', 'KH', 'AS']
+pareja
+-------------------·
+hand1: ['3C', '6D', '8H', 'QS', 'KH']
+hand2: ['2H', '5C', '6C', '9C', '9D']
+pareja
+-------------------·
+hand1: ['2C', '4C', '6H', '7D', 'JS']
+hand2: ['3H', 'TD', 'JC', 'QD', 'AC']
+cartalata
+-------------------·
+hand1: ['4H', '4C', '8H', 'JD', 'QC']
+hand2: ['5C', '7S', 'KD', 'KS', 'KC']
+trio
+-------------------·
+hand1: ['2D', '2S', '3H', '6D', 'QD']
+hand2: ['5S', '6S', '7H', 'TH', 'AS']
+cartalata
+-------------------·
+hand1: ['2C', '6D', '8D', '8S', 'AS']
+hand2: ['8H', 'TD', 'JC', 'QD', 'AH']
+pareja
+-------------------·
+hand1: ['2D', '9C', '9H', 'TD', 'QH']
+hand2: ['2H', '3D', '5C', '8H', 'TC']
+pareja
+-------------------·
+hand1: ['2S', '3D', '8S', 'KC', 'KH']
+hand2: ['4D', '6S', 'TS', 'TC', 'JH']
+pareja
+-------------------·
+hand1: ['9H', '9D', 'QS', 'KC', 'AC']
+hand2: ['4D', '5D', '6H', '8D', 'AH']
+pareja
+-------------------·
+hand1: ['4H', '5C', '7C', '9S', 'QS']
+hand2: ['2H', '7D', '8S', 'JS', 'AD']
+cartalata
+-------------------·
+hand1: ['2C', '3D', '9S', 'AC', 'AS']
+hand2: ['2D', '2H', '3H', 'JC', 'KH']
+pareja
+-------------------·
+hand1: ['7H', 'TC', 'JD', 'QH', 'KH']
+hand2: ['4C', '5S', '8H', '8D', 'KS']
+pareja
+-------------------·
+hand1: ['2H', '2S', '3S', '5H', '7H']
+hand2: ['3C', '9H', 'QS', 'KD', 'AS']
+cartalata
+-------------------·
+hand1: ['3D', '5S', '6H', 'JD', 'AD']
+hand2: ['3S', '6D', '9C', '9S', 'AC']
+pareja
+-------------------·
+hand1: ['2D', '3D', '5D', '9C', 'AC']
+hand2: ['2S', '4S', '6C', '6S', 'AD']
+pareja
+-------------------·
+hand1: ['2D', '3H', '4C', '6S', 'QC']
+hand2: ['2H', 'JH', 'QH', 'QD', 'KC']
+pareja
+-------------------·
+hand1: ['3C', '4D', '8S', '9S', 'QC']
+hand2: ['2H', '5C', '8H', 'QS', 'QD']
+pareja
+-------------------·
+hand1: ['3S', '6D', '6S', '7H', 'KD']
+hand2: ['2H', '5C', '6C', 'JC', 'KH']
+pareja
+-------------------·
+hand1: ['3S', '6S', '8H', '9S', 'TC']
+hand2: ['2D', '7S', '8S', 'TS', 'AD']
+cartalata
+-------------------·
+hand1: ['3C', '3H', '5C', '6H', '9C']
+hand2: ['8H', 'TD', 'JC', 'QH', 'QD']
+pareja
+-------------------·
+hand1: ['3C', '5D', 'TD', 'JS', 'QD']
+hand2: ['2C', '9H', 'TH', 'KH', 'AS']
+cartalata
+-------------------·
+hand1: ['3D', '5C', '9S', 'TC', 'JD']
+hand2: ['5H', '9H', 'QH', 'KC', 'AD']
+cartalata
+-------------------·
+hand1: ['3H', '4H', '7H', '8H', 'TC']
+hand2: ['2S', '6S', '7C', 'TD', 'AC']
+cartalata
+-------------------·
+hand1: ['3C', '5D', '9D', 'JC', 'QS']
+hand2: ['2S', '4D', '6C', 'JH', 'KS']
+cartalata
+-------------------·
+hand1: ['3C', '6S', '7H', '9S', 'TS']
+hand2: ['3D', '4C', '6D', '9C', 'KD']
+cartalata
+-------------------·
+hand1: ['2D', '7H', '9H', 'AH', 'AC']
+hand2: ['2S', '3S', '7C', 'JH', 'QC']
+pareja
+-------------------·
+hand1: ['2H', '3C', '9H', 'QD', 'AC']
+hand2: ['8S', '8C', 'KD', 'KH', 'AS']
+doblepareja
+-------------------·
+hand1: ['2D', '6D', '7S', 'TD', 'TH']
+hand2: ['2H', '4D', '5S', '8D', 'JD']
+pareja
+-------------------·
+hand1: ['8S', 'JD', 'QH', 'QS', 'KD']
+hand2: ['3S', '4D', '5H', 'JH', 'KC']
+pareja
+-------------------·
+hand1: ['3C', '6D', '8H', 'QC', 'KH']
+hand2: ['2D', '3S', '7D', 'TD', 'AH']
+cartalata
+-------------------·
+hand1: ['4S', '5S', '6S', '9H', 'QH']
+hand2: ['6C', '6D', '7S', 'TS', 'TH']
+doblepareja
+-------------------·
+hand1: ['4C', '6C', '6D', 'JS', 'QS']
+hand2: ['3H', '8D', '8S', '9C', 'TS']
+pareja
+-------------------·
+hand1: ['2C', '5C', '7S', 'JS', 'AS']
+hand2: ['2H', '5S', 'TC', 'AH', 'AD']
+pareja
+-------------------·
+hand1: ['6C', '9C', '9D', 'TS', 'KD']
+hand2: ['2S', '2C', '4H', 'JC', 'QD']
+pareja
+-------------------·
+hand1: ['3H', '9H', 'TC', 'QS', 'KC']
+hand2: ['3C', '4H', 'TH', 'KS', 'AD']
+cartalata
+-------------------·
+hand1: ['2H', '9C', '9D', 'KH', 'KD']
+hand2: ['2D', '7S', 'TC', 'JH', 'KC']
+doblepareja
+-------------------·
+hand1: ['3S', '7C', '8C', 'KC', 'AS']
+hand2: ['3H', '5D', '9C', '9S', 'QH']
+pareja
+-------------------·
+hand1: ['2D', '2H', '4C', '8C', 'TD']
+hand2: ['2C', '5D', '7D', 'TC', 'QC']
+cartalata
+-------------------·
+hand1: ['4D', '6C', 'TD', 'QH', 'KS']
+hand2: ['5D', '7C', '8D', 'KH', 'AD']
+cartalata
+-------------------·
+hand1: ['2S', '4C', '8S', '8C', '9S']
+hand2: ['3D', '6H', '7C', '7H', 'QD']
+pareja
+-------------------·
+hand1: ['5H', '6C', '8S', 'TS', 'QH']
+hand2: ['2S', '2H', '3C', '4S', '5C']
+cartalata
+-------------------·
+hand1: ['2H', '3S', '6S', '8S', 'JC']
+hand2: ['2S', '3H', '7H', '8C', '9D']
+cartalata
+-------------------·
+hand1: ['2C', '8H', '9C', 'QC', 'AC']
+hand2: ['3S', '4C', '4H', '6S', 'JD']
+pareja
+-------------------·
+hand1: ['3H', '3S', '4C', '7D', '9S']
+hand2: ['3D', '5H', '8H', 'TC', 'JC']
+pareja
+-------------------·
+hand1: ['2S', '2D', '9S', 'QH', 'KD']
+hand2: ['6D', '9H', '9C', 'QD', 'AD']
+pareja
+-------------------·
+hand1: ['2D', '8D', '9S', 'JC', 'KS']
+hand2: ['4C', '4S', 'TH', 'JD', 'KC']
+pareja
+-------------------·
+hand1: ['4D', '5C', '6D', 'TS', 'KH']
+hand2: ['5H', '9H', 'KD', 'AS', 'AD']
+pareja
+-------------------·
+hand1: ['5D', '6D', '7C', 'JS', 'QD']
+hand2: ['5C', '5H', 'TH', 'QH', 'QS']
+doblepareja
+-------------------·
+hand1: ['5H', '9D', 'JH', 'QH', 'KH']
+hand2: ['4C', '4D', '6C', 'TC', 'TH']
+doblepareja
+-------------------·
+hand1: ['9D', 'TS', 'KH', 'KD', 'AS']
+hand2: ['4D', '5S', '7S', '8H', '9C']
+pareja
+-------------------·
+hand1: ['2S', '7D', '9D', 'KH', 'AS']
+hand2: ['4C', '7C', 'TS', 'TH', 'AH']
+pareja
+-------------------·
+hand1: ['4D', '8S', '9S', 'KS', 'AC']
+hand2: ['5C', '8D', '9D', 'TH', 'QH']
+cartalata
+-------------------·
+hand1: ['5D', '5C', '8C', 'TC', 'QS']
+hand2: ['2C', '3D', '3S', '4C', '8D']
+pareja
+-------------------·
+hand1: ['2D', '3C', '9D', 'KS', 'KC']
+hand2: ['4S', '6C', '8C', 'JC', 'KH']
+pareja
+-------------------·
+hand1: ['6H', '7D', '7S', '8H', 'AH']
+hand2: ['3C', '4C', '6C', 'QD', 'KC']
+pareja
+-------------------·
+hand1: ['2C', '3H', '8H', 'QH', 'AS']
+hand2: ['4C', '4H', '7D', '8C', 'KC']
+pareja
+-------------------·
+hand1: ['2C', '4H', '5S', 'TD', 'QD']
+hand2: ['4C', '8S', 'JH', 'QH', 'AH']
+cartalata
+-------------------·
+hand1: ['3H', '5S', '8H', 'JS', 'QS']
+hand2: ['2S', '2C', '3S', '9H', '9C']
+doblepareja
+-------------------·
+hand1: ['6H', '7S', 'TS', 'JC', 'QD']
+hand2: ['3H', '5S', 'TD', 'KC', 'AC']
+cartalata
+-------------------·
+hand1: ['7D', 'JC', 'QH', 'QS', 'AS']
+hand2: ['2C', '4C', '5C', '5S', 'KC']
+pareja
+-------------------·
+hand1: ['3D', '4H', 'JS', 'QH', 'AS']
+hand2: ['2S', '7H', '8D', '9C', 'JC']
+cartalata
+-------------------·
+hand1: ['2S', '4D', '4S', '5D', '9D']
+hand2: ['2D', '7H', '8H', '9C', 'QS']
+pareja
+-------------------·
+hand1: ['3H', '6D', '7H', 'TS', 'JS']
+hand2: ['2D', '7C', '8S', 'JH', 'AC']
+cartalata
+-------------------·
+hand1: ['3C', '5H', 'TC', 'JH', 'KC']
+hand2: ['4C', '5S', '8H', '9H', '9D']
+pareja
+-------------------·
+hand1: ['5H', '8S', '9H', 'KC', 'AD']
+hand2: ['8D', '9D', 'KS', 'KH', 'AH']
+pareja
+-------------------·
+hand1: ['2H', '6S', '9H', 'JC', 'KS']
+hand2: ['3H', '5H', '9C', 'QC', 'AH']
+cartalata
+-------------------·
+hand1: ['5C', '5S', '6C', 'KH', 'AD']
+hand2: ['9H', '9C', 'TD', 'JC', 'QC']
+pareja
+-------------------·
+hand1: ['2D', '5S', '5D', 'JC', 'QH']
+hand2: ['2H', '8H', 'TS', 'QS', 'KS']
+pareja
+-------------------·
+hand1: ['5H', '5S', '7H', 'JH', 'AH']
+hand2: ['3C', '8S', 'TD', 'KH', 'AS']
+pareja
+-------------------·
+hand1: ['2C', '3D', '4C', '6H', 'JD']
+hand2: ['6C', '7S', 'JH', 'KC', 'AH']
+cartalata
+-------------------·
+hand1: ['4C', '7S', '9D', 'KS', 'AD']
+hand2: ['3S', '7D', '8H', '9C', 'KC']
+cartalata
+-------------------·
+hand1: ['3C', '5C', '5H', '7H', '8H']
+hand2: ['3D', '6D', 'JC', 'QC', 'KH']
+pareja
+-------------------·
+hand1: ['2D', '4H', '5D', '7D', 'QC']
+hand2: ['8H', '9H', 'QH', 'AD', 'AH']
+pareja
+-------------------·
+hand1: ['3S', '8C', '9D', 'JS', 'KD']
+hand2: ['2H', '2S', '3C', '5D', '6D']
+cartalata
+-------------------·
+hand1: ['3C', '6S', '6H', '8S', 'TS']
+hand2: ['3H', '5S', '6C', '8D', 'TD']
+pareja
+-------------------·
+hand1: ['3D', '7C', '9C', 'JH', 'KS']
+hand2: ['4H', '5S', '6H', '9S', 'QS']
+cartalata
+-------------------·
+hand1: ['4S', '6S', '7S', 'TH', 'KC']
+hand2: ['3S', 'JC', 'JH', 'KD', 'KS']
+doblepareja
+-------------------·
+hand1: ['2S', '3C', '6D', '7C', 'QH']
+hand2: ['2C', '5H', '7S', '8H', 'AH']
+cartalata
+-------------------·
+hand1: ['6D', '8D', 'QD', 'KC', 'KH']
+hand2: ['3D', '5C', '7H', '9D', '9C']
+pareja
+-------------------·
+hand1: ['2D', '6H', '8S', '9S', 'JS']
+hand2: ['2S', '6D', '7C', 'TC', 'KC']
+cartalata
+-------------------·
+hand1: ['7H', '9C', 'JH', 'KD', 'KC']
+hand2: ['2S', '3D', '6H', '7S', '8S']
+pareja
+-------------------·
+hand1: ['2D', '4H', '4C', '8H', '9H']
+hand2: ['2H', '5S', '7H', '8S', '8D']
+pareja
+-------------------·
+hand1: ['3C', '5S', '7C', '7S', 'AD']
+hand2: ['3D', '4D', '9H', 'JC', 'KH']
+pareja
+-------------------·
+hand1: ['5D', '6D', '7D', '9C', 'AS']
+hand2: ['4C', 'JC', 'QH', 'QS', 'KH']
+pareja
+-------------------·
+hand1: ['3D', '7D', 'JD', 'QS', 'KD']
+hand2: ['6D', '8S', 'JS', 'QC', 'QD']
+pareja
+-------------------·
+hand1: ['5S', '6S', '8C', 'TH', 'QH']
+hand2: ['2C', '9H', 'JD', 'AS', 'AC']
+pareja
+-------------------·
+hand1: ['3C', '7S', 'QC', 'QH', 'KS']
+hand2: ['4C', '5C', '5D', 'KC', 'AH']
+pareja
+-------------------·
+hand1: ['2C', '4H', '6C', '9D', 'AH']
+hand2: ['3H', '3D', '5C', 'TS', 'KD']
+pareja
+-------------------·
+hand1: ['8S', 'TD', 'JS', 'QS', 'AS']
+hand2: ['3H', '4H', 'KD', 'KS', 'AC']
+pareja
+-------------------·
+hand1: ['4H', '5D', '7D', '9H', 'TS']
+hand2: ['2H', '4C', '8C', '9C', 'QC']
+cartalata
+-------------------·
+hand1: ['2C', '4D', '7D', '9H', 'KS']
+hand2: ['4C', 'JS', 'QH', 'KD', 'AD']
+cartalata
+-------------------·
+hand1: ['9D', 'QD', 'KH', 'AD', 'AH']
+hand2: ['9H', 'JS', 'JC', 'JD', 'KD']
+trio
+-------------------·
+hand1: ['3C', '4S', '7S', '8S', 'TS']
+hand2: ['2S', '4D', '5C', '6H', '7C']
+cartalata
+-------------------·
+hand1: ['5C', '6D', '7S', 'JS', 'KD']
+hand2: ['2H', '6S', '8S', 'TD', 'QH']
+cartalata
+-------------------·
+hand1: ['6C', '6H', 'TC', 'TD', 'QH']
+hand2: ['2H', '4C', '8H', '9D', 'QC']
+doblepareja
+-------------------·
+hand1: ['2H', '3D', '4D', '6H', 'TS']
+hand2: ['2C', '6S', '6C', '7H', '8S']
+pareja
+-------------------·
+hand1: ['3S', '9H', '9D', 'JD', 'JH']
+hand2: ['2C', '3H', '6S', '8S', 'AH']
+doblepareja
+-------------------·
+hand1: ['2C', '3H', '5S', '8C', 'QS']
+hand2: ['2S', '3C', '4S', '7D', 'AD']
+cartalata
+-------------------·
+hand1: ['5C', 'TS', 'QC', 'QH', 'AS']
+hand2: ['4S', '4C', '5H', '6S', 'JS']
+pareja
+-------------------·
+hand1: ['4C', '5C', '6H', 'TD', 'JH']
+hand2: ['4H', 'JS', 'QS', 'KD', 'KH']
+pareja
+-------------------·
+hand1: ['4D', '9H', 'TC', 'JC', 'KH']
+hand2: ['3C', '8D', '8H', '9D', 'KC']
+pareja
+-------------------·
+hand1: ['2H', '8S', '9S', 'TC', 'AD']
+hand2: ['2C', '4H', '5C', '7H', 'TS']
+cartalata
+-------------------·
+hand1: ['2S', '4H', '5S', '6C', 'KS']
+hand2: ['7C', '8H', '9C', 'KD', 'AH']
+cartalata
+-------------------·
+hand1: ['3C', 'TS', 'TD', 'QH', 'QS']
+hand2: ['2C', '7D', '8D', 'JH', 'AH']
+doblepareja
+-------------------·
+hand1: ['3H', '5D', '5S', 'KC', 'AC']
+hand2: ['2H', '4S', '4C', '7H', 'QS']
+pareja
+-------------------·
+hand1: ['3D', '7D', 'JH', 'QC', 'KH']
+hand2: ['6D', '6C', 'TD', 'TH', 'KD']
+doblepareja
+-------------------·
+hand1: ['5S', '6C', '8D', '9D', 'TH']
+hand2: ['6D', '7D', '8C', '9S', 'KH']
+cartalata
+-------------------·
+hand1: ['2S', '7S', 'JD', 'QS', 'QC']
+hand2: ['4S', '8D', 'JC', 'QH', 'KS']
+pareja
+-------------------·
+hand1: ['5S', '7S', '9S', 'JD', 'KD']
+hand2: ['2D', '7C', '9C', 'JC', 'AD']
+cartalata
+-------------------·
+hand1: ['4S', '5H', '9C', 'JH', 'AH']
+hand2: ['2D', '5D', '6S', '7C', 'TD']
+cartalata
+-------------------·
+hand1: ['6C', '6S', '7H', '9C', 'KC']
+hand2: ['4H', '5S', 'TD', 'QD', 'KS']
+pareja
+-------------------·
+hand1: ['2D', '6S', '8D', 'TH', 'KS']
+hand2: ['3S', '9H', 'TD', 'TS', 'JD']
+pareja
+-------------------·
+hand1: ['4H', '5D', '9D', 'JS', 'KH']
+hand2: ['TC', 'TD', 'TS', 'JD', 'QC']
+trio
+-------------------·
+hand1: ['4C', 'QS', 'QD', 'AC', 'AD']
+hand2: ['2D', '3H', '6S', 'KC', 'AS']
+doblepareja
+-------------------·
+hand1: ['3C', '4C', '7C', 'TD', 'QS']
+hand2: ['8D', '9C', 'KC', 'AS', 'AD']
+pareja
+-------------------·
+hand1: ['6D', '7H', '8H', 'QC', 'KC']
+hand2: ['5S', '6S', '7S', '8C', 'AH']
+cartalata
+-------------------·
+hand1: ['3S', '6D', '9H', 'JC', 'AD']
+hand2: ['6S', 'JD', 'JH', 'KH', 'AS']
+pareja
+-------------------·
+hand1: ['3D', '7H', 'TS', 'KS', 'AD']
+hand2: ['2D', 'JH', 'JS', 'QD', 'AC']
+pareja
+-------------------·
+hand1: ['6D', '7C', '9C', 'TC', 'JD']
+hand2: ['3D', '3S', '6H', '6C', 'JC']
+doblepareja
+-------------------·
+hand1: ['3S', 'JC', 'QC', 'KC', 'KD']
+hand2: ['2C', '8D', 'TS', 'QS', 'AH']
+pareja
+-------------------·
+hand1: ['3D', '8H', 'JD', 'KD', 'AS']
+hand2: ['5C', '6C', '7C', '8C', 'QD']
+cartalata
+378
